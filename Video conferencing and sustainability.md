@@ -1,7 +1,7 @@
 <!-- Copy this template to add a new topic. Replace text in {brackets} with your content. -->
 <!-- Template created for NIME environment entries by Johnny Sullivan -->
 
-# {topic title}
+# Video conferencing and sustainability
 
 ## Summary of Issue: 
 
@@ -23,7 +23,7 @@ While the carbon footprint of video calls is often significantly lower than that
 
 ## Notes
 
-Carbon footprint of a video call:
+**Carbon footprint of a video call:**
 
 - The energy efficiency of the internet has been roughly doubling every two years [1].
 - Video calls use 250 MB - 1.3 GB of data per participant per hour, depending on the quality [3].
@@ -31,8 +31,13 @@ Carbon footprint of a video call:
 - The German grid carbon footprint is (2018) 0.4690 kgCO2e per kWh [5]. Use link [5] to find the footprint of most countries.
 - One hour of video conferencing, then, is between 0.0018 and 0.0091 kgCO2e per hour of video conferencing. 
 
+Based on these numbers, a rough calculation of the relationship between virtual and physical attendance for one person from Berlin for next years NIME in Shanghai:
+8 hours a day for four days (8 * 4 * 0.0091): 0.292 kg of CO2e. In comparison, a Flight from Berlin to Shanghai: 2.53 tonnes of CO2 
 
-{can add [figures/images](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images) and [tables](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables) using markdown or raw HTML (recommended for placement/sizing of images)}
+**Video call sustainability parameters:**
+
+- Self-hosting: By self-hosting the conference tools for NIME, we can choose a green provider rather than relying on servers beyond our control. Jitsi allows for self-hosting.
+- Peer-to-peer: https://kopano.com/ (paid).
 
 
 ## External Links and References
@@ -46,6 +51,8 @@ Carbon footprint of a video call:
 [4] German article on streaming and online data transfer: https://www.deutschlandfunk.de/streaming-und-datenuebertragung-fuer-videokonferenzen-und.697.de.html?dram%3Aarticle_id=483915&fbclid=IwAR3U8XX_dXAGY4g3Di8ncqSctSkiYMtkNZ4oauWV4J1uIrnJ-c-lGSFa0WA
 
 [5] Carbonfootprint.com - COUNTRY SPECIFIC ELECTRICITY GRID GREENHOUSE GAS EMISSION FACTORS: https://www.carbonfootprint.com/docs/2019_06_emissions_factors_sources_for_2019_electricity.pdf
+
+[6] Climate Care carbon calculator: https://climatecare.org/calculator/
 
 
 
