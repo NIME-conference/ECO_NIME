@@ -10,8 +10,6 @@ While the carbon footprint of video calls is often significantly lower than that
 
 ## Questions Raised:
 
-{frame the topic with specific question(s) about environmental impact and/or possible solutions. Examples:}
-
 1. What is the carbon footprint of a video call? 
 2. What parameters determine the footprint of video calls?
 3. What are the different alternatives for video calls?
@@ -38,4 +36,4 @@ While the carbon footprint of video calls is often significantly lower than that
 
 ## Contributor(s): 
 
-- { [your name](mailto:your.name@email.address) }
+- Adam Pultz Melbye: mail@adampultz.com
