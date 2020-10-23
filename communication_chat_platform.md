@@ -47,6 +47,6 @@ Both options can be self-hosted which, depending on host server, may provide sus
 
 ## Contributor(s):
 
-- [John Sullivan](johnny@johnnyvenom.com)
+- [John Sullivan](mailto:johnny@johnnyvenom.com)
 
 
