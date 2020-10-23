@@ -9,26 +9,28 @@ To maintain a consistent format for all entries, a [template](template.md) is pr
 # Current Entries: 
 
 1. [Communication and collaboration platforms (Slack alternatives)](communication_chat_platform.md)
-2. [Web hosting](web_hosting.md)
-3. [Machine learning](machine_learning.md)
-4. [Video conferencing](video_conferencing.md)
+2. [Machine learning](machine_learning.md)
+3. [Video conferencing](video_conferencing.md)
+4. [Web hosting](web_hosting.md)
 
 ----
 
-## Additional suggested topics: 
+## Suggested topics: 
 
-### Digital tools: 
+### Digital tools & techniques: 
 
-- [x] Machine Learning
-    - [ ] Cloud computing
-    - [ ] Other computationally intensive rendering tasks...? 
+- [x] Machine learning
+- [ ] Cloud computing
+- [ ] other computationally intensive rendering tasks...? 
+
+### Services (including conference delivery tools)
+
 - [x] Web hosting
-- [ ] Digital streaming 
-    - Conference tools
-    - Music streaming
 - [x] Communication and collaboration platforms (Slack alternatives)
-- [x] Videoconferencing (Zoom alternatives)
+- [x] Video conferencing (Zoom alternatives)
 - [ ] Video hosting (YouTube alternatives)
+- [ ] Music streaming
+
 ## Hardware
 
 - [ ] Sourcing and supply chain of electronics/components
@@ -42,6 +44,3 @@ To maintain a consistent format for all entries, a [template](template.md) is pr
 - [ ] Travel related to research
     - [ ] Conference travel
     - [ ] Field research
-=======
-# ECO_NIME
-  This repo aims to support sustainable practices within and beyond NIME as outlined in the NIME Conference Environmental Statement
