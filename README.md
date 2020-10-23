@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ECO-NIME Repository
 ===================
 
@@ -44,3 +45,7 @@ To maintain a consistent format for all entries, a [template](template.md) is pr
 - [ ] Travel related to research
     - [ ] Conference travel
     - [ ] Field research
+=======
+# ECO_NIME
+  This repo aims to support sustainable practices within and beyond NIME as outlined in the NIME Conference Environmental Statement
+>>>>>>> 08515335c9fc030ed9bfbf533d0e969b279b9813
