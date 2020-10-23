@@ -2,7 +2,7 @@ To support sustainable practices within and beyond NIME as outlined in the [NIME
 
 > This repository is currently in development [here](https://github.com/NIME-conference/ECO_NIME); once active, we envision it being available at NIME.org, possibly with a form for community submissions. 
 
-To maintain a consistent format for all entries, a [template](template.md) is provided. Please use this when submitting new content. Markdown (.md) files are the preferred format. 
+To maintain a consistent format for all entries, a [template](_template.md) is provided. Please use this when submitting new content. Markdown (.md) files are the preferred format. 
 
 ----
 
@@ -17,7 +17,7 @@ To maintain a consistent format for all entries, a [template](template.md) is pr
 
 ## Suggested topics: 
 
-### Digital tools & techniques: 
+### Digital tools & techniques for research: 
 
 - [x] Machine learning
 - [ ] Cloud computing
