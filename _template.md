@@ -15,7 +15,7 @@
 2. {"Are there more sustainable materials/methods that can be recommended?"}
 3. {"What are some ways to address this issue within the community?"}
 
-## Information and resources (TL;DR)
+## Information and recommendations (TL;DR)
 
 {a short summary (with list, links, or whatever best format) of information collected on the topic, and recommendations for addressing it.}
 

@@ -13,7 +13,7 @@ In this page, we try to address the following issues:
 1. "What is the carbon footprint for web hosting and web services?"
 2. "Are there more sustainable hosting services that can be recommended?"
 
-## Information and resources (TL;DR)
+## Information and recommendations (TL;DR)
 
 You can check the  impact of your website: https://www.websitecarbon.com/
 
@@ -21,7 +21,7 @@ You can check the  impact of your website: https://www.websitecarbon.com/
 
 ## Notes
 
-Below a list of services that offer green hosting aternatives.
+Below a list of services that offer green hosting alternatives.
 
 
 |Name          | Link                       |  How is it green  |   cost web hosting | Server         |      

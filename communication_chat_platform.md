@@ -12,9 +12,9 @@
 2. What are the sustainability practices of Slack Technologies? 
 3. Are there alternative platforms that are tested, reliable, and scalable to accommodate the NIME conference? 
 
-## Information and resources (TL;DR)
+<!-- ## Information and recommendations (TL;DR)
 
-{a short summary (with list, links, or whatever best format) of information collected on the topic, and recommendations for addressing it.}
+{a short summary (with list, links, or whatever best format) of information collected on the topic, and recommendations for addressing it.} -->
 
 -----
 
@@ -29,7 +29,7 @@ In their [statement](https://stepupdeclaration.org/slack), Slack announced the f
 - support regenerative and sustainable agriculture through purchasing
 - champion inclusive communities
 
-According to this article (https://www.ethicalconsumer.org/technology/shopping-guide/video-conferencing?fbclid=IwAR1cfsoJGGcgypD0mktU6q-eNeDbcNR8P8c2cazyYxK5MKhjJpn22AP65lM), the paid version of Slack relies on Amazon Web Services.
+According to [this article](https://www.ethicalconsumer.org/technology/shopping-guide/video-conferencing?fbclid=IwAR1cfsoJGGcgypD0mktU6q-eNeDbcNR8P8c2cazyYxK5MKhjJpn22AP65lM), the paid version of Slack relies on Amazon Web Services.
 Additionally, the article claims that Slack is involved with tax avoidance and excessive enumeration of executives. More research is needed.
 
 Some alternatives to Slack have been proposed: 
@@ -42,6 +42,7 @@ Both options can be self-hosted which, depending on host server, may provide sus
 
 ## External Links and References
 
+- [ethicalconsumer.org guide to video conferencing](https://www.ethicalconsumer.org/technology/shopping-guide/video-conferencing?fbclid=IwAR1cfsoJGGcgypD0mktU6q-eNeDbcNR8P8c2cazyYxK5MKhjJpn22AP65lM) (*paid subscription required to view full article*)
 
 ----
 

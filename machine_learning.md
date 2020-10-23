@@ -12,7 +12,7 @@ Machine learning has become a major tool and area of research in NIME, however i
 2. Can green energy sources be used? What are they, and how can they be accessed by NIME researchers? 
 3. How can researchers using machine learning optimize their work to reduce energy consumption and minimize emissions?
 
-## Information and resources (TL;DR)
+## Information and recommendations (TL;DR)
 
 Researchers have estimated the carbon emissions for training one large data set to exceed that of 5 cars in their lifetimes [1]. To evaluate the potential environmental impact of a machine learning task, use the [Carbon Emissions Calculator](https://mlco2.github.io/impact/) developed by Lacoste, et al. [2]. Consider energy efficient alternatives for ML algorithms. When using cloud computing providers for rendering, look for those who actively use and promote renewable energy sources. 
 

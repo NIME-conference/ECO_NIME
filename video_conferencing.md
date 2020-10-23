@@ -15,7 +15,7 @@ While the carbon footprint of video calls is often significantly lower than that
 3. What are the different alternatives for video calls?
 4. How does the footprint of video calls relate to that of travel? 
 
-<!-- ## Information and resources (TL;DR) -->
+<!-- ## Information and recommendations (TL;DR) -->
 
 <!-- {a short summary (with list, links, or whatever best format) of information collected on the topic, and recommendations for addressing it.} -->
 
