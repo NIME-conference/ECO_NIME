@@ -15,16 +15,18 @@ In this page, we try to address the following issues:
 
 ## Present situation
 
-NIME uses the following hosting services:
+NIME.org is a fully static site built on Jekyll and forum.nime.org is a Discourse instance which requires a VPS ([video discussing setup as of July 2020](https://youtu.be/8p5HJh-DwBk)). At present we use the following hosting services:
 
 - **Proceedings**: static data hosting (presently in an Amazon S3 bucket in US East N. Virginia region)
 - **nime.org**: continuous integration from jekyll source on GitHub + static web hosting (presently hosted on Netlify free tier)
-- **forum.nime.org**: virtual private server (presently hosted on DigitalOcean 1vCPU/1GB server in FRA1 region).
+- **forum.nime.org**: virtual private server (presently hosted on DigitalOcean 1vCPU/1GB VPS in FRA1 region).
+
+NIME does not use any traditional shared hosting services.
 
 ## Present Sustainability Notes
 
 - **Digital Ocean**, does not have a sustainability statement, but users have been tracking energy sources for individual data centres. The FRA1 data centre appears to use 100% renewable energy ([source](https://www.digitalocean.com/community/questions/what-kind-of-electricity-do-you-run-on))
-- **Amazon AWS**, has a goal of 100% renewable energy by 2025 ([source](https://sustainability.aboutamazon.com/environment/the-cloud)), not clear what the energy mix is for particular data centers. May be desirable to reduce use of AWS.
+- **Amazon AWS**, has a goal of 100% renewable energy by 2025 ([source](https://sustainability.aboutamazon.com/environment/the-cloud)), not clear what the energy mix is for particular data centers. May be desirable to reduce use of AWS, both from a cost and sustainability perspective.
 - **Netlify** has a [sustainability statement](https://www.netlify.com/sustainability/), which focuses on efficient computation of web services, not on achieving 100% renewable energy, they note that their [distributed infrastructure](https://community.netlify.com/t/is-netlify-powered-by-renewable-energy/3951) makes it hard to measure renewable energy usage. Could replace, but any use of cached/CDN backed static website could likely have the same issues and this is desirable for serving our main page to a global audience.
 
 ## Information and recommendations (TL;DR)
