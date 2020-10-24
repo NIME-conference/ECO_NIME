@@ -29,6 +29,8 @@ NIME does not use any traditional shared hosting services.
 - **Amazon AWS**, has a goal of 100% renewable energy by 2025 ([source](https://sustainability.aboutamazon.com/environment/the-cloud)), not clear what the energy mix is for particular data centers. May be desirable to reduce use of AWS, both from a cost and sustainability perspective.
 - **Netlify** has a [sustainability statement](https://www.netlify.com/sustainability/), which focuses on efficient computation of web services, not on achieving 100% renewable energy, they note that their [distributed infrastructure](https://community.netlify.com/t/is-netlify-powered-by-renewable-energy/3951) makes it hard to measure renewable energy usage. Could replace, but any use of cached/CDN backed static website could likely have the same issues and this is desirable for serving our main page to a global audience.
 
+The proceedings (and supplementary files) requires around 20GB of disk space and bandwidth requirements are 80-120GB per month.
+
 ## Information and recommendations (TL;DR)
 
 You can check the  impact of your website: https://www.websitecarbon.com/
