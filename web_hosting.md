@@ -13,6 +13,20 @@ In this page, we try to address the following issues:
 1. "What is the carbon footprint for web hosting and web services?"
 2. "Are there more sustainable hosting services that can be recommended?"
 
+## Present situation
+
+NIME uses the following hosting services:
+
+- **Proceedings**: static data hosting (presently in an Amazon S3 bucket in US East N. Virginia region)
+- **nime.org**: continuous integration from jekyll source on GitHub + static web hosting (presently hosted on Netlify free tier)
+- **forum.nime.org**: virtual private server (presently hosted on DigitalOcean 1vCPU/1GB server in FRA1 region).
+
+## Present Sustainability Notes
+
+- **Digital Ocean**, does not have a sustainability statement, but users have been tracking energy sources for individual data centres. The FRA1 data centre appears to use 100% renewable energy ([source](https://www.digitalocean.com/community/questions/what-kind-of-electricity-do-you-run-on))
+- **Amazon AWS**, has a goal of 100% renewable energy by 2025 ([source](https://sustainability.aboutamazon.com/environment/the-cloud)), not clear what the energy mix is for particular data centers. May be desirable to reduce use of AWS.
+- **Netlify** has a sustainability statement, but is not on 100% renewable energy - they blame this on requiring [highly distributed infrastructure](https://community.netlify.com/t/is-netlify-powered-by-renewable-energy/3951). Could replace, but any use of cached/CDN backed static website could likely have the same issues and this is desirable for serving our main page to a global audience.
+
 ## Information and recommendations (TL;DR)
 
 You can check the  impact of your website: https://www.websitecarbon.com/
@@ -39,4 +53,5 @@ Below a list of services that offer green hosting alternatives.
 ## Contributor(s): 
 
 - [Raul Masu](mailto:raul@raulmasu.org)
+- [Charles Martin]() NIME webmaster
 
