@@ -34,7 +34,7 @@ To maintain a consistent format for all entries, a [template](_template.md) is p
 ## Hardware
 
 - [ ] Sourcing and supply chain of electronics/components
-- [ ] Materials used in rapid prototyping (3D printing, lasercutting, injection molding, etc.), and green alternatives
+- [ ] Materials used in rapid prototyping (3D printing, lasercutting, etc.), and green alternatives
 - [ ] e-waste
 - [ ] Embedded computing versus desktop/laptop computing
 
