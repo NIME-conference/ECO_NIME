@@ -1,9 +1,11 @@
 <!-- Copy this template to add a new topic. Replace text in {brackets} with your content. -->
-<!-- Template created for NIME environment entries by Johnny Sullivan -->
+<!-- Template created for ECO_NIME wiki entries by Johnny Sullivan -->
 
-# {topic title}
+# Template 
 
-## Summary of Issue: 
+<!-- replace 'Template' with short title; this will be page title when published -->
+
+## Summary of Issue:
 
 {a statement to describe the topic (1-2 sentences)}
 
@@ -19,21 +21,17 @@
 
 {a short summary (with list, links, or whatever best format) of information collected on the topic, and recommendations for addressing it.}
 
------
-
 ## Notes
 
 {this section can be any length and format, to share more in depth findings on the topic.}
 
-{can add [figures/images](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images) and [tables](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables) using markdown or raw HTML (recommended for placement/sizing of images)}
-
+{can add [figures/images](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images) and [tables](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables) using markdown. Note that Gitbook doesn't parse HTML well, so avoid using HTML in your markdown pages.}
 
 ## External Links and References
 
 {include any references, incl. papers, websites, etc.}
 
-----
+## Contributor\(s\):
 
-## Contributor(s): 
+* { [your name](mailto:your.name@email.address) }
 
-- { [your name](mailto:your.name@email.address) }

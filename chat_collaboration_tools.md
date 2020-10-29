@@ -1,6 +1,6 @@
 <!-- Copy this template to add a new topic. Replace text in {brackets} with your content. -->
 
-# Communications and Conference Chat platform 
+# Chat and collaboration tools
 
 ## Summary of Issue: 
 

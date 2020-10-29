@@ -1,12 +1,11 @@
 <!-- Copy this template to add a new topic. Replace text in {brackets} with your content. -->
 <!-- Template created for NIME environment entries by Johnny Sullivan -->
 
-# Video conferencing and sustainability
+# Video conferencing
 
 ## Summary of Issue: 
 
-With NIME moving to a hybrid format, video conferencing and communication will be essential for the conference. Additionally, the spread of COVID-19 has meant that the already established practice of everyday video conference calls has increased manyfold.
-While the carbon footprint of video calls is often significantly lower than that of non-local in-person meetings, a number of parameters can be considered in choosing the least polluting technologies and practices.
+With NIME moving to a hybrid format, video conferencing and communication will be essential for the conference. Additionally, the spread of COVID-19 has meant that the already established practice of everyday video conference calls has increased manyfold. While the carbon footprint of video calls is often significantly lower than that of non-local in-person meetings, a number of parameters can be considered in choosing the least polluting technologies and practices.
 
 ## Questions Raised:
 
@@ -42,19 +41,12 @@ Based on these numbers, a rough calculation of the relationship between virtual 
 
 ## External Links and References
 
-[1] Paper: Electricity Intensity of Internet Data Transmission: Untangling the Estimates: https://onlinelibrary.wiley.com/doi/full/10.1111/jiec.12630
-
-[2] Article: Comparison of the energy, carbon and time costs of videoconferencing and in-person meetings: https://www.researchgate.net/publication/260438994_Comparison_of_the_energy_carbon_and_time_costs_of_videoconferencing_and_in-person_meetings
-
-[3] Ethical consumer UK on video conferencing: https://www.ethicalconsumer.org/technology/shopping-guide/video-conferencing?fbclid=IwAR1cfsoJGGcgypD0mktU6q-eNeDbcNR8P8c2cazyYxK5MKhjJpn22AP65lM
-
-[4] German article on streaming and online data transfer: https://www.deutschlandfunk.de/streaming-und-datenuebertragung-fuer-videokonferenzen-und.697.de.html?dram%3Aarticle_id=483915&fbclid=IwAR3U8XX_dXAGY4g3Di8ncqSctSkiYMtkNZ4oauWV4J1uIrnJ-c-lGSFa0WA
-
-[5] Carbonfootprint.com - COUNTRY SPECIFIC ELECTRICITY GRID GREENHOUSE GAS EMISSION FACTORS: https://www.carbonfootprint.com/docs/2019_06_emissions_factors_sources_for_2019_electricity.pdf
-
-[6] Climate Care carbon calculator: https://climatecare.org/calculator/
-
-
+1. Paper: [Electricity Intensity of Internet Data Transmission: Untangling the Estimates](https://onlinelibrary.wiley.com/doi/full/10.1111/jiec.12630)
+2. Article: [Comparison of the energy, carbon and time costs of videoconferencing and in-person meetings](https://www.researchgate.net/publication/260438994_Comparison_of_the_energy_carbon_and_time_costs_of_videoconferencing_and_in-person_meetings)
+3. Article: [***Ethical consumer UK*** on video conferencing](https://www.ethicalconsumer.org/technology/shopping-guide/video-conferencing?fbclid=IwAR1cfsoJGGcgypD0mktU6q-eNeDbcNR8P8c2cazyYxK5MKhjJpn22AP65lM)
+4. Article: [German article on streaming and online data transfer](https://www.deutschlandfunk.de/streaming-und-datenuebertragung-fuer-videokonferenzen-und.697.de.html?dram%3Aarticle_id=483915&fbclid=IwAR3U8XX_dXAGY4g3Di8ncqSctSkiYMtkNZ4oauWV4J1uIrnJ-c-lGSFa0WA)
+5. [Carbonfootprint.com - COUNTRY SPECIFIC ELECTRICITY GRID GREENHOUSE GAS EMISSION FACTORS](https://www.carbonfootprint.com/docs/2019_06_emissions_factors_sources_for_2019_electricity.pdf)
+6. [Climate Care carbon calculator](https://climatecare.org/calculator/)
 
 ----
 
