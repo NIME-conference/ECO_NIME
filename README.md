@@ -1,8 +1,4 @@
----
-description: Info and resources for sustainable NIME research
----
-
-# ECO\_NIME wiki
+# ECO_NIME wiki
 
 ## Info and resources for sustainable NIME research
 
