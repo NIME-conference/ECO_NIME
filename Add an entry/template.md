@@ -1,6 +1,11 @@
+<!-- Copy this template to add a new topic. Replace text in {brackets} with your content. -->
+<!-- Template created for ECO_NIME wiki entries by Johnny Sullivan -->
+
 # Template 
 
-<!-- replace Template with short title; this will be the name of the page -->
+<!-- replace 'Template' with short title; this will be page title when published -->
+
+{Use this template to create a new ECO_NIME entry. Replace text in brackets with your content. For more information see [here](README.md).}
 
 ## Summary of Issue:
 

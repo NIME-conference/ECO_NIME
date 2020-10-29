@@ -1,5 +1,3 @@
-<!-- Copy this template to add a new topic. Replace text in {brackets} with your content. -->
-
 # Machine learning
 
 ## Summary of Issue: 
@@ -41,8 +39,6 @@ Despite being inspired by the human brain, which is an incredibly energy-efficie
 **Fig. 1:** CO2 emission comparison. Reproduced from [1]
 
 ----
-
-<!-- <img src="media/CO2_emissions_comparison.jpg" alt="CO2 emission comparison" width="350"/> -->
 
 In a more typical research scenario, the authors also point out that the full process of designing and evaluating an appropriate ML model is highly iterative, contributing to a high rate of energy consumption as well: a previous six-month study required training 4,789 models, amounting to emissions of 78,468 lbs. of CO2, roughly equivalent to 40 air flights.  
 

@@ -1,6 +1,6 @@
 # Communications and Conference Chat platform
 
-## Summary of Issue:
+# Chat and collaboration tools
 
 [Slack](https://slack.com/) is a dominant workplace communication platform that was used with great results at the online NIME 2020 conference. Previous discussions have highlighted certain issues that may limit its viability for future conferences \(10k message storage limit, prohibitively expensive premium licence, potential privacy concerns\). In addition to these, we examine whether there are environmental costs associated with Slack that could be reduced by using an alternate platform.
 

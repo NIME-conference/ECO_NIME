@@ -1,4 +1,7 @@
-# Video conferencing and sustainability
+<!-- Copy this template to add a new topic. Replace text in {brackets} with your content. -->
+<!-- Template created for NIME environment entries by Johnny Sullivan -->
+
+# Video conferencing
 
 ## Summary of Issue:
 
@@ -30,17 +33,12 @@ Based on these numbers, a rough calculation of the relationship between virtual 
 
 ## External Links and References
 
-\[1\] Paper: Electricity Intensity of Internet Data Transmission: Untangling the Estimates: [https://onlinelibrary.wiley.com/doi/full/10.1111/jiec.12630](https://onlinelibrary.wiley.com/doi/full/10.1111/jiec.12630)
-
-\[2\] Article: Comparison of the energy, carbon and time costs of videoconferencing and in-person meetings: [https://www.researchgate.net/publication/260438994\_Comparison\_of\_the\_energy\_carbon\_and\_time\_costs\_of\_videoconferencing\_and\_in-person\_meetings](https://www.researchgate.net/publication/260438994_Comparison_of_the_energy_carbon_and_time_costs_of_videoconferencing_and_in-person_meetings)
-
-\[3\] Ethical consumer UK on video conferencing: [https://www.ethicalconsumer.org/technology/shopping-guide/video-conferencing?fbclid=IwAR1cfsoJGGcgypD0mktU6q-eNeDbcNR8P8c2cazyYxK5MKhjJpn22AP65lM](https://www.ethicalconsumer.org/technology/shopping-guide/video-conferencing?fbclid=IwAR1cfsoJGGcgypD0mktU6q-eNeDbcNR8P8c2cazyYxK5MKhjJpn22AP65lM)
-
-\[4\] German article on streaming and online data transfer: [https://www.deutschlandfunk.de/streaming-und-datenuebertragung-fuer-videokonferenzen-und.697.de.html?dram%3Aarticle\_id=483915&fbclid=IwAR3U8XX\_dXAGY4g3Di8ncqSctSkiYMtkNZ4oauWV4J1uIrnJ-c-lGSFa0WA](https://www.deutschlandfunk.de/streaming-und-datenuebertragung-fuer-videokonferenzen-und.697.de.html?dram%3Aarticle_id=483915&fbclid=IwAR3U8XX_dXAGY4g3Di8ncqSctSkiYMtkNZ4oauWV4J1uIrnJ-c-lGSFa0WA)
-
-\[5\] Carbonfootprint.com - COUNTRY SPECIFIC ELECTRICITY GRID GREENHOUSE GAS EMISSION FACTORS: [https://www.carbonfootprint.com/docs/2019\_06\_emissions\_factors\_sources\_for\_2019\_electricity.pdf](https://www.carbonfootprint.com/docs/2019_06_emissions_factors_sources_for_2019_electricity.pdf)
-
-\[6\] Climate Care carbon calculator: [https://climatecare.org/calculator/](https://climatecare.org/calculator/)
+1. Paper: [Electricity Intensity of Internet Data Transmission: Untangling the Estimates](https://onlinelibrary.wiley.com/doi/full/10.1111/jiec.12630)
+2. Article: [Comparison of the energy, carbon and time costs of videoconferencing and in-person meetings](https://www.researchgate.net/publication/260438994_Comparison_of_the_energy_carbon_and_time_costs_of_videoconferencing_and_in-person_meetings)
+3. Article: [***Ethical consumer UK*** on video conferencing](https://www.ethicalconsumer.org/technology/shopping-guide/video-conferencing?fbclid=IwAR1cfsoJGGcgypD0mktU6q-eNeDbcNR8P8c2cazyYxK5MKhjJpn22AP65lM)
+4. Article: [German article on streaming and online data transfer](https://www.deutschlandfunk.de/streaming-und-datenuebertragung-fuer-videokonferenzen-und.697.de.html?dram%3Aarticle_id=483915&fbclid=IwAR3U8XX_dXAGY4g3Di8ncqSctSkiYMtkNZ4oauWV4J1uIrnJ-c-lGSFa0WA)
+5. [Carbonfootprint.com - COUNTRY SPECIFIC ELECTRICITY GRID GREENHOUSE GAS EMISSION FACTORS](https://www.carbonfootprint.com/docs/2019_06_emissions_factors_sources_for_2019_electricity.pdf)
+6. [Climate Care carbon calculator](https://climatecare.org/calculator/)
 
 ## Contributor\(s\):
 
