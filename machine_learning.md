@@ -22,7 +22,26 @@ Researchers have estimated the carbon emissions for training one large data set 
 
 Despite being inspired by the human brain, which is an incredibly energy-efficient system, the computation resources required for machine learning research have a surprisingly large carbon footprint. A paper [1] on energy demands of NLP (natural language processing) tasks showed that the energy used to train one complex data set emitted more CO2 than 5 gas-powered cars in their lifetimes (see Fig. below). Much of the high energy cost in their example was attributed to a late stage tuning step called neural architecture search (NAS), an automated trial and error process of designing the most optimized neural network. However, these exponentially energy intensive and time-consuming optimizations may add little performance benefit to an ML task and may not be necessary in many applications. 
 
-<img src="media/CO2_emissions_comparison.jpg" alt="CO2 emission comparison" width="350"/>
+----
+
+| Consumption | CO2e (lbs) |
+|:----------- | ----------:|
+| Air travel, 1 person, NY <-> SF | 1984 |
+| Human life, avg, 1 year | 11,023 |
+| American life, avg, 1 year | 36,156 |
+| Car, avg incl. fuel, 1 lifetime | 126,000 |
+| | |
+| **Training one model (GPU)** | |
+| NLP pipeline (parsing, SRL) | 39 |
+| - w/ tuning & experiments | 78,468 |
+| Transformer (big) | 192 |
+| - w/ neural arch. search | 626,155 |
+
+**Fig. 1:** CO2 emission comparison [1]
+
+----
+
+<!-- <img src="media/CO2_emissions_comparison.jpg" alt="CO2 emission comparison" width="350"/> -->
 
 In a more typical research scenario, the authors also point out that the full process of designing and evaluating an appropriate ML model is highly iterative, contributing to a high rate of energy consumption as well: a previous six-month study required training 4,789 models, amounting to emissions of 78,468 lbs. of CO2, roughly equivalent to 40 air flights.  
 
