@@ -2,9 +2,9 @@
 
 ## Info and resources for sustainable NIME research
 
-To support sustainable practices within and beyond NIME as outlined in the [NIME Conference Environmental Statement](https://www.nime.org/environment/), we have created this repository of information and green resources for environmental issues in NIME research. The repository is regularly updated with new entries, ideas, and suggestions for how we can lessen the ecological footprint of our individual and institutional practices. It is softly curated by the environmental officers, and we highly encourage everyone to [submit requests](Contribute/README.md) for additions and edits. We hope that this will become a resource, not only for evaluating our own environmental impact, but also to spawn new ideas, designs, sonic works, and collaborations, with the potential for impact beyond the boundaries of NIME research as well.
+To support sustainable practices within and beyond NIME as outlined in the [NIME Conference Environmental Statement](https://www.nime.org/environment/), we have created this repository of information and green resources for environmental issues in NIME research. The repository is regularly updated with new entries, ideas, and suggestions for how we can lessen the ecological footprint of our individual and institutional practices. It is softly curated by the environmental officers, and we highly encourage everyone to [submit requests](contribute/README.md) for additions and edits. We hope that this will become a resource, not only for evaluating our own environmental impact, but also to spawn new ideas, designs, sonic works, and collaborations, with the potential for impact beyond the boundaries of NIME research as well.
 
-> This repository is currently in development [here](https://github.com/NIME-conference/ECO_NIME); once active, we envision it being available at NIME.org, possibly with a form for community submissions.
+----
 
 ## Current Entries:
 
