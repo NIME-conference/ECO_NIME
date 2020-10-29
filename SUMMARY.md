@@ -1,6 +1,6 @@
 # Summary
 
-- [ECO_NIME wiki](README.md)
+- [ECO_NIME 🌱](README.md)
 
 ## Entries
 
