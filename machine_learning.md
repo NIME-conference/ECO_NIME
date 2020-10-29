@@ -30,14 +30,15 @@ Despite being inspired by the human brain, which is an incredibly energy-efficie
 | Human life, avg, 1 year | 11,023 |
 | American life, avg, 1 year | 36,156 |
 | Car, avg incl. fuel, 1 lifetime | 126,000 |
-| | |
-| **Training one model (GPU)** | |
+
+| **Training one model (GPU)** | CO2e (lbs) |
+|:----------- | ----------:|
 | NLP pipeline (parsing, SRL) | 39 |
 | - w/ tuning & experiments | 78,468 |
 | Transformer (big) | 192 |
 | - w/ neural arch. search | 626,155 |
 
-**Fig. 1:** CO2 emission comparison [1]
+**Fig. 1:** CO2 emission comparison. Reproduced from [1]
 
 ----
 
