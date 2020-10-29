@@ -1,7 +1,7 @@
 # Table of contents
 
 * [ECO\_NIME wiki](README.md)
-* [HOw the ECO\_NIME wiki is configured](.wiki_management.md)
+* [ECO\_NIME management](.wiki_management.md)
 * [Video conferencing and sustainability](video_conferencing.md)
 * [{topic title}](_template.md)
 * [Energy demands of machine learning](machine_learning.md)
