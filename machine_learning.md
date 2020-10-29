@@ -1,6 +1,6 @@
 <!-- Copy this template to add a new topic. Replace text in {brackets} with your content. -->
 
-# Energy demands of machine learning
+# Machine learning
 
 ## Summary of Issue: 
 
