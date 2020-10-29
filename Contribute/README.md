@@ -1,6 +1,6 @@
-# Contribute to ECO_NIME
+# ...contribute to ECO_NIME
 
-The ECO_NIME wiki is a community space, and we highly encourage anyone to contribute new entries, additional information and edit to existing pages. The wiki lives as a public [Git repository]([https://](https://github.com/NIME-conference/ECO_NIME)), and is published with [Gitbook](https://gitbook.com).
+The ECO_NIME wiki is a community space, and we highly encourage anyone to contribute new entries, additional information and edit to existing pages. The wiki lives as a public [Git repository](https://github.com/NIME-conference/ECO_NIME), and is published with [Gitbook](https://gitbook.com).
 
 The repository is softly curated by the NIME environmental officers. If you would like to contribute, we ask that you <a href="mailto:johnny@johnnyvenom.com?subject=ECO_NIME new submission">submit requests by email</a> for additions and edits.
 
