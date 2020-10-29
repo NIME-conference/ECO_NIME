@@ -13,7 +13,9 @@ To support sustainable practices within and beyond NIME as outlined in the [NIME
 3. [Video conferencing](video_conferencing.md)
 4. [Web hosting](web_hosting.md)
 
-### Contact:
+----
+
+## Contact:
 
 Questions and comments can be directed to the NIME environmental officers:
 
