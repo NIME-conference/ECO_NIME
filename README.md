@@ -1,6 +1,4 @@
-# ECO_NIME repository
-
-**Information and resources for sustainable NIME research**
+# README
 
 To support sustainable practices within and beyond NIME as outlined in the [NIME Conference Environmental Statement](https://www.nime.org/environment/), we have created this repository containing information and green resources for environmental issues in NIME research. It will be continuously updated and contain information, ideas, and suggestions for how we can lessen our individual as well as institutional footprint. The repository is softly curated by the environmental officers, and we highly encourage everyone to [submit requests](mailto:johnny@johnnyvenom.com?subject=ECO_NIME%20new%20submission) for additions and edits. We hope that this will become a resource, not only for evaluating our environmental impact but also spawn new ideas, designs, sonic works, and collaborations, possibly having an impact also beyond the boundaries of NIME research.
 
@@ -19,29 +17,29 @@ To maintain a consistent format for all entries, a [template](_template.md) is p
 
 #### Digital tools & techniques for research:
 
-- [x] Machine learning
-- [ ] Cloud computing
-- [ ] other computationally intensive rendering tasks...? 
+* [x] Machine learning
+* [ ] Cloud computing
+* [ ] other computationally intensive rendering tasks...? 
 
 #### Services \(including conference delivery tools\)
 
-- [x] Web hosting
-- [x] Communication and collaboration platforms \(Slack alternatives\)
-- [x] Video conferencing \(Zoom alternatives\)
-- [ ] Video hosting \(YouTube alternatives\)
-- [ ] Music streaming
+* [x] Web hosting
+* [x] Communication and collaboration platforms \(Slack alternatives\)
+* [x] Video conferencing \(Zoom alternatives\)
+* [ ] Video hosting \(YouTube alternatives\)
+* [ ] Music streaming
 
 ### Hardware
 
-- [ ] Sourcing and supply chain of electronics/components
-- [ ] Materials used in rapid prototyping \(3D printing, lasercutting, etc.\), and green alternatives
-- [ ] e-waste
-- [ ] Embedded computing versus desktop/laptop computing
+* [ ] Sourcing and supply chain of electronics/components
+* [ ] Materials used in rapid prototyping \(3D printing, lasercutting, etc.\), and green alternatives
+* [ ] e-waste
+* [ ] Embedded computing versus desktop/laptop computing
 
 ### Travel
 
-- [ ] Touring
-- [ ] Travel related to research
-  - [ ] Conference travel
-  - [ ] Field research
+* [ ] Touring
+* [ ] Travel related to research
+  * [ ] Conference travel
+  * [ ] Field research
 
