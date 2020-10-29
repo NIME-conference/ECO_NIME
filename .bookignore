@@ -1,0 +1,4 @@
+# These entries won't be published in the Gitbook
+
+.wiki_management.md
+_template.md
