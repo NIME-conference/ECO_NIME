@@ -11,5 +11,5 @@
 
 ## Contribute to ECO_NIME
 
-- [How to contribute](Contribute/README.md)
-- [Template](Contribute/template.md)
+- [How to contribute](contribute/README.md)
+- [Template](contribute/template.md)
