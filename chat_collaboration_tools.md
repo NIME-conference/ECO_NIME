@@ -1,8 +1,4 @@
-# chat\_collaboration\_tools
-
-## Communications and Conference Chat platform
-
-## Chat and collaboration tools
+# Chat and collaboration tools
 
 [Slack](https://slack.com/) is a dominant workplace communication platform that was used with great results at the online NIME 2020 conference. Previous discussions have highlighted certain issues that may limit its viability for future conferences \(10k message storage limit, prohibitively expensive premium licence, potential privacy concerns\). In addition to these, we examine whether there are environmental costs associated with Slack that could be reduced by using an alternate platform.
 
@@ -30,13 +26,13 @@ Some alternatives to Slack have been proposed:
 * [Rocket Chat](https://rocket.chat/) 
 * [Mattermost](https://mattermost.com/)
 
-Both options can be self-hosted which, depending on host server, may provide sustainability benefits. More research is necessary to evaluate potential advantages of these alternatives over Slack. Also it is unclear if similar limitations exist for these platforms \(eg. message limits on free tiers, subscription costs for 'pro' features.\)
+Both options can be self-hosted which, depending on host server, may provide sustainability benefits. More research is necessary to evaluate potential advantages of these alternatives over Slack. Also it is unclear if similar limitations exist for these platforms (eg. message limits on free tiers, subscription costs for 'pro' features)
 
 ### External Links and References
 
-* [ethicalconsumer.org guide to video conferencing](https://www.ethicalconsumer.org/technology/shopping-guide/video-conferencing?fbclid=IwAR1cfsoJGGcgypD0mktU6q-eNeDbcNR8P8c2cazyYxK5MKhjJpn22AP65lM) \(_paid subscription required to view full article_\)
+* [ethicalconsumer.org guide to video conferencing](https://www.ethicalconsumer.org/technology/shopping-guide/video-conferencing?fbclid=IwAR1cfsoJGGcgypD0mktU6q-eNeDbcNR8P8c2cazyYxK5MKhjJpn22AP65lM) (_paid subscription required to view full article_)
 
-### Contributor\(s\):
+### Contributor(s):
 
 * [John Sullivan](mailto:johnny@johnnyvenom.com)
 
