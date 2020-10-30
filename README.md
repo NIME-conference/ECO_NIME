@@ -19,7 +19,6 @@ To support sustainable practices within and beyond NIME as outlined in the [NIME
 
 Questions and comments can be directed to the NIME environmental officers:
 
-* [John Sullivan](mailto:johnny@johnnyvenom.com) - ECO_NIME coordinator
+* [John Sullivan](mailto:johnny@johnnyvenom.com)
 * [Raul Masu](mailto:raul@raulmasu.org)
 * [Adam Pultz Melbye](mailto:mail@adampultz.com)
-
