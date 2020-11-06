@@ -1,10 +1,10 @@
 # Website hosting
 
-## Summary of issue: 
+## Summary of issue 
 
 Hosting a website or a web service has an environmental impact. On this page, we provide a link to a service that estimates the cost of a website and a list of services that offer green web hosting or servers.
 
-## Questions raised:
+## Questions Raised
 
 In this page, we try to address the following issues:
 
@@ -38,7 +38,7 @@ Below a list of services that offer green hosting alternatives.
 
 ----
 
-## NIME web hosting information:
+## NIME web hosting information
 
 ### Present situation
 
@@ -58,7 +58,7 @@ NIME does not use any traditional shared hosting services.
 
 The proceedings (and supplementary files) requires around 20GB of disk space and bandwidth requirements are 80-120GB per month.
 
-## Contributor(s): 
+## Contributor(s) 
 
 - [Raul Masu](mailto:raul@raulmasu.org)
 - [Charles Martin]() NIME webmaster

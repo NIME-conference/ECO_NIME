@@ -1,10 +1,10 @@
 # Machine learning
 
-## Summary of Issue: 
+## Summary of issue 
 
 Machine learning has become a major tool and area of research in NIME, however in many forms it is extremely computationally intensive and uses large amounts of energy resources. This may contribute to a very large carbon footprint for ML-based research. 
 
-## Questions Raised:
+## Questions Raised
 
 1. What is the carbon footprint for NIME-related machine learning tasks? 
 2. Can green energy sources be used? What are they, and how can they be accessed by NIME researchers? 
@@ -77,6 +77,6 @@ Another important resource for evaluating the environmental impact of ML tasks i
 
 ----
 
-## Contributor(s):
+## Contributor(s)
 
 - [John Sullivan](mailto:johnny@johnnyvenom.com)

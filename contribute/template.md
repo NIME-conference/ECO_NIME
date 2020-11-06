@@ -7,11 +7,11 @@
 
 {Use this template to create a new ECO_NIME entry. Replace text in brackets with your content. For more information see [here](README.md).}
 
-## Summary of Issue:
+## Summary of Issue
 
 {a statement to describe the topic (1-2 sentences)}
 
-## Questions Raised:
+## Questions Raised
 
 {frame the topic with specific question(s) about environmental impact and/or possible solutions. Examples:}
 
@@ -33,7 +33,7 @@
 
 {include any references, incl. papers, websites, etc.}
 
-## Contributor\(s\):
+## Contributor(s)
 
 * { [your name](mailto:your.name@email.address) }
 

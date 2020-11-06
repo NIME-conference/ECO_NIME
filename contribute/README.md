@@ -8,28 +8,28 @@ To maintain a consistent format for all entries, a [template](template.md) is pr
 
 ----
 
-## Suggested topics:
+## Suggested topics
 
 These are some of the topics we have identified to provide information about; if you want to contribute feel free to take one of these or add your own. 
 
-#### Digital tools & techniques for research:
+#### Digital tools & techniques for research
 
 * [x] Machine learning
 * [ ] Cloud computing
 * [ ] other computationally intensive rendering tasks...? 
 
-#### Services \(including conference delivery tools\)
+#### Services (including conference delivery tools)
 
 * [x] Web hosting
-* [x] Communication and collaboration platforms \(Slack alternatives\)
-* [x] Video conferencing \(Zoom alternatives\)
-* [ ] Video hosting \(YouTube alternatives\)
+* [x] Communication and collaboration platforms (Slack alternatives)
+* [x] Video conferencing (Zoom alternatives)
+* [ ] Video hosting (YouTube alternatives)
 * [ ] Music streaming
 
 ### Hardware
 
 * [ ] Sourcing and supply chain of electronics/components
-* [ ] Materials used in rapid prototyping \(3D printing, lasercutting, etc.\), and green alternatives
+* [ ] Materials used in rapid prototyping (3D printing, lasercutting, etc.), and green alternatives
 * [ ] e-waste
 * [ ] Embedded computing versus desktop/laptop computing
 
@@ -42,10 +42,10 @@ These are some of the topics we have identified to provide information about; if
 
 ----
 
-## Contact:
+## Contact
 
 Questions and comments can be directed to the NIME environmental officers: 
 
-- [John Sullivan](mailto:johnny@johnnyvenom.com) - ECO_NIME coordinator
+- [John Sullivan](mailto:johnny@johnnyvenom.com)
 - [Raul Masu](mailto:raul@raulmasu.org)
 - [Adam Pultz Melbye](mailto:mail@adampultz.com)

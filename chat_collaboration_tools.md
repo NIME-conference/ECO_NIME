@@ -2,7 +2,7 @@
 
 [Slack](https://slack.com/) is a dominant workplace communication platform that was used with great results at the online NIME 2020 conference. Previous discussions have highlighted certain issues that may limit its viability for future conferences \(10k message storage limit, prohibitively expensive premium licence, potential privacy concerns\). In addition to these, we examine whether there are environmental costs associated with Slack that could be reduced by using an alternate platform.
 
-### Questions Raised:
+### Questions Raised
 
 1. Are there significant environmental costs associated with Slack that would be reduced by switching to another platform? 
 2. What are the sustainability practices of Slack Technologies? 
@@ -32,7 +32,7 @@ Both options can be self-hosted which, depending on host server, may provide sus
 
 * [ethicalconsumer.org guide to video conferencing](https://www.ethicalconsumer.org/technology/shopping-guide/video-conferencing?fbclid=IwAR1cfsoJGGcgypD0mktU6q-eNeDbcNR8P8c2cazyYxK5MKhjJpn22AP65lM) (_paid subscription required to view full article_)
 
-### Contributor(s):
+### Contributor(s)
 
 * [John Sullivan](mailto:johnny@johnnyvenom.com)
 
