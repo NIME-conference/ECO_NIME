@@ -35,7 +35,9 @@ Based on these numbers, a rough calculation of the relationship between virtual 
 
 **Video call sustainability parameters:**
 
-- Self-hosting: By self-hosting the conference tools for NIME, we can choose a green provider rather than relying on servers beyond our control. Jitsi allows for self-hosting.
+- Self-hosting: By self-hosting the conference tools for NIME, we can choose a green provider rather than relying on servers beyond our control.
+  - Jitsi allows for self-hosting.
+  - Big Blue Button allows for selfhosting, and has features for limiting the need for screensharing (thus limiting bandwidth) by sharing the pdf slides to each participant's computer, rather than having to screen share.
 - Peer-to-peer: https://kopano.com/ (paid).
 
 
@@ -53,3 +55,4 @@ Based on these numbers, a rough calculation of the relationship between virtual 
 ## Contributor(s) 
 
 - [Adam Pultz Melbye](mailto:mail@adampultz.com)
+- [Marije Baalman](mailto:sensestage@nescivi.nl)
