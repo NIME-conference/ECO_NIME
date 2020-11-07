@@ -75,7 +75,7 @@ Some creative approaches to repurposing waste filament can be found online. Of i
 
 #### Buy Recycled Filament:
 
-It is possible to purchase filament made from recycled PLA. Again, Filamentive is a good source. However, bear in mind that, that to retain strength, such filament is likely to be a mix of recycled PLA and virgin material. Filamentive PLA contains 55% recycled material.
+It is possible to purchase filament made from recycled PLA. Again, Filamentive is a good source. However, bear in mind that, to retain strength, such filament is likely to be a mix of recycled PLA and virgin material. Filamentive PLA contains 55% recycled material.
 
 ## External Links and References
 
