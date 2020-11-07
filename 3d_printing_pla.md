@@ -1,4 +1,3 @@
-
 <!-- Copy this template to add a new topic. Replace text in {brackets} with your content. -->
 <!-- Template created for ECO_NIME wiki entries by Johnny Sullivan -->
 
@@ -29,7 +28,7 @@ While PLA is indeed a bioplastic, an industrial composter is required for it to 
 
 ## Notes
 
-In addition to its ubiquitous use in 3D printing, PLA (Polylactic acid) is also used in food packaging. Its a bioplastic, derived from renewable, plant-based materials such as corn starch. A common misconception is that as PLA is a bioplastic, it will naturally decompose; making it an environmentally-friendly choice of material. PLA is biodegradable but unfortunately, will break down exceptionally slowly without the intervention of industrial processes. The rate of decomposition is dependent on the environment the PLA is placed in. Analysts suggest that a PLA bottle could take anywhere from 100 to 1000 years to fully decompose in landfill. Conversely, when placed in an industrial composting facility (an anaerobic digestor), PLA can decompose within three months [2].
+In addition to its ubiquitous use in 3D printing, PLA (Polylactic acid) is used in food packaging. Its a bioplastic, derived from renewable, plant-based materials such as corn starch. A common misconception is that as PLA is a bioplastic, it will naturally decompose; making it an environmentally-friendly choice of material. PLA is biodegradable but unfortunately, will break down exceptionally slowly without the intervention of industrial processes. The rate of decomposition is dependent on the environment the PLA is placed in. Analysts suggest that a PLA bottle could take anywhere from 100 to 1000 years to fully decompose in landfill. Conversely, when placed in an industrial composting facility (an anaerobic digestor), PLA can decompose within three months [2].
 
 Is it possible to send waste PLA, resulting from print errors, discarded support structures and old prototypes, to an industrial composting facility? Municipal waste collection programs are likely to vary geographically. In the UK, domestic compostable waste collection is commonplace, intended for food scraps. However, PLA would be seen as contamination if mixed with this. Furthermore, falling into the catch-all, Recycling Grade 7 (the higher the number, the harder to recycle) PLA cannot be recycled by municipal waste programs [3]. Placing large quantities of PLA into domestic recycling would contaminate the recycling stream [4].
 
