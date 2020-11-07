@@ -24,7 +24,7 @@ While PLA is indeed a bioplastic, an industrial composter is required for it to 
 3. Minimise the use of support structures.
 4. Reduce print failure rate and improve print quality by storing your filament in a dry, dust-free environment.
 5. Repurpose waste PLA (create plectrums, for example).
-6. Buy and use recycled filament.
+6. Buy and use recycled PLA filament.
 7. Recycle waste PLA into new filament as a DIY project. An advanced but achievable project.
 
 ## Notes
@@ -71,7 +71,7 @@ Some creative approaches to repurposing waste filament can be found online. Of i
 
 #### Create New Filament:
 
-[Filabot][.9] manufactures a system for extruding (and re-spooling) waste filament. This began as an open-source project (the Filabot Wee). The current Filabot machines are sophisticated but costly, perhaps only within the means of larger maker spaces. Alternatively, [open-source projects][.11] and [DIY guides][.10] are available, explaining how to create extruding machines.
+[Filabot][.9] manufactures a system for extruding (and re-spooling) waste filament. This began as an open-source project (the Filabot Wee). The current Filabot machines are sophisticated but costly, perhaps only within the means of larger maker spaces. Alternatively, [open-source projects][.11] exist and [DIY guides][.10] are available, explaining how to create extruding machines.
 
 #### Buy Recycled Filament:
 
