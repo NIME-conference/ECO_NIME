@@ -71,7 +71,7 @@ Some creative approaches to repurposing waste filament can be found online. Of i
 
 #### Create New Filament:
 
-[Filabot][.9] manufactures a system for extruding (and re-spooling) waste filament. This began as an open-source project (the Filabot Wee). The current Filabot machines are sophisticated but costly, perhaps only within the means of larger maker spaces. Alternatively, [open-source projects][.11] and [DIY guides][.10] are available, explaining how to create DIY extruding machines.
+[Filabot][.9] manufactures a system for extruding (and re-spooling) waste filament. This began as an open-source project (the Filabot Wee). The current Filabot machines are sophisticated but costly, perhaps only within the means of larger maker spaces. Alternatively, [open-source projects][.11] and [DIY guides][.10] are available, explaining how to create extruding machines.
 
 #### Buy Recycled Filament:
 
