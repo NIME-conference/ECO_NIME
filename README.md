@@ -8,10 +8,11 @@ To support sustainable practices within and beyond NIME as outlined in the [NIME
 
 ## Current Entries
 
-1. [Communication and collaboration tools (Slack alternatives)](https://github.com/NIME-conference/ECO_NIME/tree/75f28d1153a2b7fd9bc8aae486f850365a26faec/communication_chat_platform.md)
+1. [Communication and collaboration tools (Slack alternatives)](communication_chat_platform.md)
 2. [Machine learning](machine_learning.md)
 3. [Video conferencing](video_conferencing.md)
 4. [Web hosting](web_hosting.md)
+5. [3D Printing: PLA](3d_printing_pla.md)
 
 ----
 
