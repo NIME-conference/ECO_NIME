@@ -60,7 +60,7 @@ Lower the resolution of the video.
 5. [Carbonfootprint.com - COUNTRY SPECIFIC ELECTRICITY GRID GREENHOUSE GAS EMISSION FACTORS](https://www.carbonfootprint.com/docs/2019_06_emissions_factors_sources_for_2019_electricity.pdf)
 6. [Climate Care carbon calculator](https://climatecare.org/calculator/)
 7. [Savoir-faire Linux Commitment Statement](https://savoirfairelinux.com/en/commitments)
-8. Zoom makes privacy and security fixes as millions flock to service (https://edition.cnn.com/2020/04/23/tech/zoom-update/index.html)
+8. [Zoom makes privacy and security fixes as millions flock to service](https://edition.cnn.com/2020/04/23/tech/zoom-update/index.html)
 
 
 ----
