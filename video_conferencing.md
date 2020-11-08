@@ -35,8 +35,20 @@ Based on these numbers, a rough calculation of the relationship between virtual 
 
 **Video call sustainability parameters:**
 
-- Self-hosting: By self-hosting the conference tools for NIME, we can choose a green provider rather than relying on servers beyond our control. Jitsi allows for self-hosting.
+- Self-hosting: By self-hosting the conference tools for NIME, we can choose a green provider rather than relying on servers beyond our control.
+
+- Jitsi: https://meet.jit.si/. Jitsi offers self-hosting. Environmental statement for 8x8 (the company owning Jitis) here: https://investors.8x8.com/corporate-responsibility/environment-policy/default.aspx
+[3] raises ethical concerns regarding excessive enumerations of executives.
+- Jami: https://jami.net/# . Recieves a high envorinmental score in [3] but seems to be in its infancy and may not be reliable enough for NIME.
 - Peer-to-peer: https://kopano.com/ (paid).
+
+**Considerations for individuals:**
+
+Use optical fiber wifi rather than cellphone data: I haven't been able to find conclusive research, but [4] suggests that watching a video on the old 3G cellular network consumes 50 times more energy than on a wifi served by optical fiber cables.
+
+Consider turning off your video when conferencing.
+
+Lower the resolution of the video.
 
 
 ## External Links and References
