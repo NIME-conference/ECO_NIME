@@ -5,7 +5,7 @@
 
 ## Summary of Issue: 
 
-With NIME moving to a hybrid format, video conferencing and communication will be essential for the conference. Additionally, the spread of COVID-19 has meant that the already established practice of everyday video conference calls has increased manyfold. While the carbon footprint of video calls is often significantly lower than that of non-local in-person meetings, a number of parameters can be considered in choosing the least polluting technologies and practices.
+With NIME moving to a hybrid format, video conferencing and communication will be essential for the conference. Additionally, the spread of COVID-19 has meant that the already established practice of everyday video conference calls has increased manyfold. While the carbon footprint of video calls is often significantly lower than that of non-local in-person meetings, a number of parameters can be considered in choosing the least polluting technologies and practices. Additionally, there have been a few privacy concerns related to Zoom in the pass [9].
 
 ## Questions Raised:
 
@@ -39,7 +39,7 @@ Based on these numbers, a rough calculation of the relationship between virtual 
 
 - Jitsi: https://meet.jit.si/. Jitsi offers self-hosting. Environmental statement for 8x8 (the company owning Jitis) here: https://investors.8x8.com/corporate-responsibility/environment-policy/default.aspx
 [3] raises ethical concerns regarding excessive enumerations of executives.
-- Jami: https://jami.net/# . Recieves a high envorinmental score in [3] but seems to be in its infancy and may not be reliable enough for NIME.
+- Jami: https://jami.net/# . Recieves a high envorinmental score in [3] but seems to be in its infancy and may not be reliable enough for NIME. Another positive aspect of Jami is a general Commitment toward a "sustainable economy based on cooperation and knowledge" [7].
 - Peer-to-peer: https://kopano.com/ (paid).
 
 **Considerations for individuals:**
@@ -59,6 +59,9 @@ Lower the resolution of the video.
 4. Article: [German article on streaming and online data transfer](https://www.deutschlandfunk.de/streaming-und-datenuebertragung-fuer-videokonferenzen-und.697.de.html?dram%3Aarticle_id=483915&fbclid=IwAR3U8XX_dXAGY4g3Di8ncqSctSkiYMtkNZ4oauWV4J1uIrnJ-c-lGSFa0WA)
 5. [Carbonfootprint.com - COUNTRY SPECIFIC ELECTRICITY GRID GREENHOUSE GAS EMISSION FACTORS](https://www.carbonfootprint.com/docs/2019_06_emissions_factors_sources_for_2019_electricity.pdf)
 6. [Climate Care carbon calculator](https://climatecare.org/calculator/)
+7. [Jami Commitment Statement](https://savoirfairelinux.com/en/commitments)
+8. Zoom makes privacy and security fixes as millions flock to service (https://edition.cnn.com/2020/04/23/tech/zoom-update/index.html)
+
 
 ----
 
