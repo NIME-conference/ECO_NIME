@@ -1,7 +1,7 @@
 <!-- Copy this template to add a new topic. Replace text in {brackets} with your content. -->
 <!-- Template created for NIME environment entries by Johnny Sullivan -->
 
-# Video conferencing
+# Video conferencing (Zoom alternatives)
 
 ## Summary of issue 
 
