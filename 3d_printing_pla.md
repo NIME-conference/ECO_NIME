@@ -24,11 +24,12 @@ While PLA is indeed a bioplastic, an industrial composter is required for it to 
 3. Minimise the use of support structures.
 4. Reduce print failure rate and improve print quality by storing your filament in a dry, dust-free environment.
 5. Repurpose waste PLA (create plectrums, for example).
-6. Recycle waste PLA into new filament. An advanced but achievable project.
+6. Buy and use recycled PLA filament.
+7. Recycle waste PLA into new filament as a DIY project. An advanced but achievable project.
 
 ## Notes
 
-In addition to its ubiquitous use in 3D printing, PLA (Polylactic acid) is used in food packaging. Its a bioplastic, derived from renewable, plant-based materials such as corn starch. A common misconception is that as PLA is a bioplastic, it will naturally decompose; making it an environmentally-friendly choice of material. PLA is biodegradable but unfortunately, will break down exceptionally slowly without the intervention of industrial processes. The rate of decomposition is dependent on the environment the PLA is placed in. Analysts suggest that a PLA bottle could take anywhere from 100 to 1000 years to fully decompose in landfill. Conversely, when placed in an industrial composting facility (an anaerobic digestor), PLA can decompose within three months [2].
+In addition to its ubiquitous use in 3D printing, PLA (Polylactic acid) is used in food packaging. Its a bioplastic, derived from renewable, plant-based materials such as corn starch. A common misconception is that as PLA is a bioplastic, it will naturally decompose; making it an environmentally-friendly choice of material. PLA is biodegradable but unfortunately, will break down exceptionally slowly without the intervention of industrial processes. The rate of decomposition is dependent on the environment the PLA is placed in. Analysts suggest that a PLA bottle could take anywhere from 100 to 1000 years to fully decompose in landfill. Conversely, when placed in an industrial composting facility (an anaerobic digestor), PLA can decompose within three months [2]. Filamentive estimated that globally, eight thousand tons of 3D printing material would enter landfill in 2019 [8].
 
 Is it possible to send waste PLA, resulting from print errors, discarded support structures and old prototypes, to an industrial composting facility? Municipal waste collection programs are likely to vary geographically. In the UK, domestic compostable waste collection is commonplace, intended for food scraps. However, PLA would be seen as contamination if mixed with this. Furthermore, falling into the catch-all, Recycling Grade 7 (the higher the number, the harder to recycle) PLA cannot be recycled by municipal waste programs [3]. Placing large quantities of PLA into domestic recycling would contaminate the recycling stream [4].
 
@@ -70,7 +71,11 @@ Some creative approaches to repurposing waste filament can be found online. Of i
 
 #### Create New Filament:
 
-[Filabot][.9] manufactures a system for extruding (and re-spooling) waste filament. This began as an open-source project (the Filabot Wee). The current Filabot machines are sophisticated but costly, perhaps only within the means of larger maker spaces. Alternatively, [DIY guides][.10] are available, explaining how to create an extruding machine as a DIY project.
+[Filabot][.9] manufactures a system for extruding (and re-spooling) waste filament. This began as an open-source project (the Filabot Wee). The current Filabot machines are sophisticated but costly, perhaps only within the means of larger maker spaces. Alternatively, [open-source projects][.11] exist and [DIY guides][.10] are available, explaining how to create extruding machines.
+
+#### Buy Recycled Filament:
+
+It is possible to purchase filament made from recycled PLA. Again, Filamentive is a good source. However, bear in mind that, to retain strength, such filament is likely to be a mix of recycled PLA and virgin material. Filamentive PLA contains 55% recycled material.
 
 ## External Links and References
 
@@ -80,6 +85,8 @@ Some creative approaches to repurposing waste filament can be found online. Of i
 4. https://www.theguardian.com/environment/2008/apr/26/waste.pollution
 5. https://www.sciencedirect.com/science/article/pii/S0301479718310016
 6. https://dl.acm.org/doi/10.1145/3322276.3322320
+7. https://all3dp.com/2/is-pla-recyclable/
+8. https://www.filamentive.com/the-3d-printing-waste-problem/
 
 [.3]: https://all3dp.com/1/3d-printing-support-structures/ "All3DP Support Structures"
 [.4]: https://all3dp.com/2/filament-spool-8-ways-to-safely-store-your-filament/ "All3DP Filament Storage"
@@ -89,6 +96,7 @@ Some creative approaches to repurposing waste filament can be found online. Of i
 [.8]: https://all3dp.com/weekend-project-laser-cutting-3d-printed-trash/ "Plastic Smoothie"
 [.9]: https://www.filabot.com/ "Filabot"
 [.10]: https://www.instructables.com/Build-your-own-3d-printing-filament-factory-Filame/ "Filame"
+[.11]: https://reprap.org/wiki/RepRapable_Recyclebot:_Open_source_3-D_printable_extruder_for_converting_plastic_to_3-D_printing_filament
 
 ## Contributor:
 
