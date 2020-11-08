@@ -8,7 +8,7 @@
 - [Machine learning](machine_learning.md)
 - [Video conferencing (Zoom alternatives)](video_conferencing.md)
 - [Web hosting](web_hosting.md)
-- [3D Printing: PLA](3d_printing_pla.md)
+- [3D printing: PLA](3d_printing_pla.md)
 
 ## Contribute to ECO_NIME
 

@@ -100,7 +100,7 @@ It is possible to purchase filament made from recycled PLA. Again, Filamentive i
 [.10]: https://www.instructables.com/Build-your-own-3d-printing-filament-factory-Filame/ "Filame"
 [.11]: https://reprap.org/wiki/RepRapable_Recyclebot:_Open_source_3-D_printable_extruder_for_converting_plastic_to_3-D_printing_filament
 
-## Contributor:
+## Contributor
 
 * [Alex Lucas](mailto:alucas02@qub.ac.uk)
 
