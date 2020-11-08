@@ -10,7 +10,7 @@ To support sustainable practices within and beyond NIME as outlined in the [NIME
 
 1. [Communication and collaboration tools (Slack alternatives)](communication_chat_platform.md)
 2. [Machine learning](machine_learning.md)
-3. [Video conferencing](video_conferencing.md)
+3. [Video conferencing (Zoom alternatives)](video_conferencing.md)
 4. [Web hosting](web_hosting.md)
 5. [3D printing: PLA](3d_printing_pla.md)
 
