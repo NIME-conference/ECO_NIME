@@ -65,7 +65,7 @@ Lower the resolution of the video.
 
 ----
 
-## Contributor(s) 
+## Contributors
 
 - [Adam Pultz Melbye](mailto:mail@adampultz.com)
 - [Raul Masu](mailto:raul@raulmasu.org)
