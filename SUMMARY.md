@@ -9,6 +9,7 @@
 - [Video conferencing (Zoom alternatives)](video_conferencing.md)
 - [Web hosting](web_hosting.md)
 - [3D printing: PLA](3d_printing_pla.md)
+- [Related Projects](related_projects.md)
 
 ## Contribute to ECO_NIME
 
