@@ -4,7 +4,7 @@
 # Related Projects 
 
 In the last years, environmental awareness is increasingly growing. Consequently, a number of artistic and music projects related to the need of battling the effects of climate change emerged. 
-In this page, we decided to start listing them. In this page, we aim to give visibility and try to track the various project. Moreover, the projects can be an inspiration for the work within the NIME community. 
+In this page, we decided to start listing them. In this page, we aim to give visibility and try to track the various project. Moreover, these projects can be an inspiration for the work within the NIME community. 
 
 This page is the result of volunteer work, and therefore cannot be an exhaustive list of all the existing projects. We are committed to keep this page update and keep adding projects. If you think that your project should be included or you know a project that should be listed below, please contact us. 
 
