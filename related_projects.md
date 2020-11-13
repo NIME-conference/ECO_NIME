@@ -16,7 +16,7 @@ This page is the result of volunteer work, and therefore cannot be an exhaustive
 
 ## Information
 
-**Climate. Sound. Change.**
+### **Climate. Sound. Change.**
 
 Climate. Sound. Change. is an call orginized by [Sound and Music](https://soundandmusic.org/), and the [British Music Collection](https://britishmusiccollection.org.uk/) that aim to " create space for composers whose work engages with and seeks to address current social issues". The project offer 3 £500 grants for musicians whose work is ment to respond to the climate emergency.
 
