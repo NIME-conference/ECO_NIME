@@ -11,8 +11,8 @@ This page is the result of volunteer work, and therefore cannot be an exhaustive
 
 ## Questions Raised
 
-1. {"What music and artistic projects that tackle environmental issues exist?"} 
-2. {"How can we be inspired to create environmentally sustainable music and artistic projects"}
+1. What music and artistic projects that tackle environmental issues exist?
+2. How can we be inspired to create environmentally sustainable music and artistic projects
 
 ## Information
 
