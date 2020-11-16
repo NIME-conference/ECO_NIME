@@ -40,7 +40,7 @@ Based on these numbers, a rough calculation of the relationship between virtual 
 - Jitsi: https://meet.jit.si/. Jitsi offers self-hosting. Environmental statement for 8x8 (the company owning Jitis) here: https://investors.8x8.com/corporate-responsibility/environment-policy/default.aspx
 [3] raises ethical concerns regarding excessive enumerations of executives.
 - Jami: https://jami.net/# . Recieves a high envorinmental score in [3] but seems to be in its infancy and may not be reliable enough for NIME. Another positive aspect of Savoir-faire Linux, (the company developing Jami) is a general Commitment toward a "sustainable economy based on cooperation and knowledge" [7].
-- Peer-to-peer: https://kopano.com/ (paid).
+- Kopano Meet: https://meet-app.io/. Open source peer to peer video conferencing with paid options available (paid edition provides access to a hosted turn service). The company Kopano does not provide environmental statements, but Meet is mostly implemented in Golang which provides a small memory footprint.
 
 **Considerations for individuals:**
 
