@@ -7,7 +7,7 @@
 
 ## Summary of Issue
 
-PLA is the most common plastic used in 3D printing [1]. Unfortunately, 3D printing is prone to waste; through failed prints and surplus material discarded once printing is complete. PLA is at times subject to a degree of greenwashing, being touted as an environmentally friendly material. It is a bioplastic, and therefore could be described as carbon-neutral and compostable. However, the reality is more complicated.
+PLA is the most common plastic used in 3D printing [[1]]. Unfortunately, 3D printing is prone to waste; through failed prints and surplus material discarded once printing is complete. PLA is at times subject to a degree of greenwashing, being touted as an environmentally friendly material. It is a bioplastic, and therefore could be described as carbon-neutral and compostable. However, the reality is more complicated.
 
 ## Questions Raised
 
@@ -31,9 +31,9 @@ While PLA is indeed a bioplastic, an industrial composter is required for it to 
 
 ## Notes
 
-In addition to its ubiquitous use in 3D printing, PLA (Polylactic acid) is used in food packaging. Its a bioplastic, derived from renewable, plant-based materials such as corn starch. A common misconception is that as PLA is a bioplastic, it will naturally decompose; making it an environmentally-friendly choice of material. PLA is biodegradable but unfortunately, will break down exceptionally slowly without the intervention of industrial processes. The rate of decomposition is dependent on the environment the PLA is placed in. Analysts suggest that a PLA bottle could take anywhere from 100 to 1000 years to fully decompose in landfill. Conversely, when placed in an industrial composting facility (an anaerobic digestor), PLA can decompose within three months [2]. Filamentive estimated that globally, eight thousand tons of 3D printing material would enter landfill in 2019 [8].
+In addition to its ubiquitous use in 3D printing, PLA (Polylactic acid) is used in food packaging. Its a bioplastic, derived from renewable, plant-based materials such as corn starch. A common misconception is that as PLA is a bioplastic, it will naturally decompose; making it an environmentally-friendly choice of material. PLA is biodegradable but unfortunately, will break down exceptionally slowly without the intervention of industrial processes. The rate of decomposition is dependent on the environment the PLA is placed in. Analysts suggest that a PLA bottle could take anywhere from 100 to 1000 years to fully decompose in landfill. Conversely, when placed in an industrial composting facility (an anaerobic digestor), PLA can decompose within three months [[2]]. Filamentive estimated that globally, eight thousand tons of 3D printing material would enter landfill in 2019 [[8]].
 
-Is it possible to send waste PLA, resulting from print errors, discarded support structures and old prototypes, to an industrial composting facility? Municipal waste collection programs are likely to vary geographically. In the UK, domestic compostable waste collection is commonplace, intended for food scraps. However, PLA would be seen as contamination if mixed with this. Furthermore, falling into the catch-all, Recycling Grade 7 (the higher the number, the harder to recycle) PLA cannot be recycled by municipal waste programs [3]. Placing large quantities of PLA into domestic recycling would contaminate the recycling stream [4].
+Is it possible to send waste PLA, resulting from print errors, discarded support structures and old prototypes, to an industrial composting facility? Municipal waste collection programs are likely to vary geographically. In the UK, domestic compostable waste collection is commonplace, intended for food scraps. However, PLA would be seen as contamination if mixed with this. Furthermore, falling into the catch-all, Recycling Grade 7 (the higher the number, the harder to recycle) PLA cannot be recycled by municipal waste programs [[3]]. Placing large quantities of PLA into domestic recycling would contaminate the recycling stream [[4]].
 
 So where does this leave us? By attending to the familiar three R's (Reduce, Reuse & Recycle), our environmental impact can be reduced in the use of PLA.
 
@@ -53,7 +53,7 @@ It may not be necessary to print an object in its entirety to check mechanical t
 
 Consider the orientation and design of models to reduce the number of support structures required. All3DP has an [excellent article][.3] on this topic. As a general rule of thumb, models that overhang by 45 degrees or more will require support structures, albeit printer dependent. Reducing layer thickness can help improve your printers ability to print overhangs. While reorientating a model on the print bed may eliminate the need for specific support structures, other techniques such as chamfering can be employed to reduce overhang angles.
 	
-Dual extruder 3D printers can make use of water-soluble PVA filament for support structures. However, there are some concerns that the growing use of water-soluble polymers by consumers and by industry could have a detrimental environmental impact [5].
+Dual extruder 3D printers can make use of water-soluble PVA filament for support structures. However, there are some concerns that the growing use of water-soluble polymers by consumers and by industry could have a detrimental environmental impact [[5]].
 
 #### Storage
 
@@ -69,7 +69,7 @@ There are ways (albeit somewhat experimental), in which makers can recycle and r
 
 #### Reuse
 
-Some creative approaches to repurposing waste filament can be found online. Of interest to guitarists might be these [plectrums][.7] cut from PLA. Another example is the [Plastic Smoothie][.8]. The filament is cut into small pieces using a food processor, melted into a sheet in a small oven then used as raw material for a laser cutter. Another interesting experiment was conducted during a study by Dew and Rosner [6].  Waste filament was reheated to use as a fixative for printed objects, and also moulded into new items.
+Some creative approaches to repurposing waste filament can be found online. Of interest to guitarists might be these [plectrums][.7] cut from PLA. Another example is the [Plastic Smoothie][.8]. The filament is cut into small pieces using a food processor, melted into a sheet in a small oven then used as raw material for a laser cutter. Another interesting experiment was conducted during a study by Dew and Rosner [[6]].  Waste filament was reheated to use as a fixative for printed objects, and also moulded into new items.
 
 #### Create New Filament
 
@@ -81,14 +81,14 @@ It is possible to purchase filament made from recycled PLA. Again, Filamentive i
 
 ## External Links and References
 
-1. https://www.filamentive.com/how-sustainable-is-pla/
-2. https://www.scientificamerican.com/article/environmental-impact-of-corn-based-plastics/
-3. https://all3dp.com/2/3d-printer-recycled-plastic-tips-for-your-waste-plastic/
-4. https://www.theguardian.com/environment/2008/apr/26/waste.pollution
-5. https://www.sciencedirect.com/science/article/pii/S0301479718310016
-6. https://dl.acm.org/doi/10.1145/3322276.3322320
-7. https://all3dp.com/2/is-pla-recyclable/
-8. https://www.filamentive.com/the-3d-printing-waste-problem/
+[[1]] https://www.filamentive.com/how-sustainable-is-pla/  
+[[2]] https://www.scientificamerican.com/article/environmental-impact-of-corn-based-plastics/  
+[[3]] https://all3dp.com/2/3d-printer-recycled-plastic-tips-for-your-waste-plastic/  
+[[4]] https://www.theguardian.com/environment/2008/apr/26/waste.pollution  
+[[5]] https://www.sciencedirect.com/science/article/pii/S0301479718310016  
+[[6]] https://dl.acm.org/doi/10.1145/3322276.3322320  
+[[7]] https://all3dp.com/2/is-pla-recyclable/  
+[[8]] https://www.filamentive.com/the-3d-printing-waste-problem/  
 
 [.3]: https://all3dp.com/1/3d-printing-support-structures/ "All3DP Support Structures"
 [.4]: https://all3dp.com/2/filament-spool-8-ways-to-safely-store-your-filament/ "All3DP Filament Storage"
@@ -99,6 +99,15 @@ It is possible to purchase filament made from recycled PLA. Again, Filamentive i
 [.9]: https://www.filabot.com/ "Filabot"
 [.10]: https://www.instructables.com/Build-your-own-3d-printing-filament-factory-Filame/ "Filame"
 [.11]: https://reprap.org/wiki/RepRapable_Recyclebot:_Open_source_3-D_printable_extruder_for_converting_plastic_to_3-D_printing_filament
+
+[1]: https://www.filamentive.com/how-sustainable-is-pla/  
+[2]: https://www.scientificamerican.com/article/environmental-impact-of-corn-based-plastics/  
+[3]: https://all3dp.com/2/3d-printer-recycled-plastic-tips-for-your-waste-plastic/  
+[4]: https://www.theguardian.com/environment/2008/apr/26/waste.pollution  
+[5]: https://www.sciencedirect.com/science/article/pii/S0301479718310016  
+[6]: https://dl.acm.org/doi/10.1145/3322276.3322320  
+[7]: https://all3dp.com/2/is-pla-recyclable/  
+[8]: https://www.filamentive.com/the-3d-printing-waste-problem/
 
 ## Contributor
 
