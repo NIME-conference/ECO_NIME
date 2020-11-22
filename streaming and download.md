@@ -18,7 +18,16 @@ This article explores the environmental issues related to the digital streaming 
 
 ## Notes
 
-While CDs and vinyl records are an obvious source of plastic pollution, the environmental impact of online data transfers is less obvious, yet significant. Devine (2019: 157-158) notes that plastic use in the US across all recording formats peaked at 6109600 kilograms in 2000, falling to 7845200 kilograms in 2016, while carbon emissions rose from 157 million kilograms in 2000 to over 200 million kilograms by 2016. These numbers coincide with a fall in the purchase price of music as the medium has moved from vinyls and CDs to downloads: a CD in 2000 sold for 21,59 @
+While CDs and vinyl records are an obvious source of plastic pollution, the environmental impact of online data transfers is less obvious, yet significant. Devine (2019: 157-158) notes that plastic use in the US across all recording formats peaked at 6109600 kilograms in 2000, falling to 7845200 kilograms in 2016, while carbon emissions rose from 157 million kilograms in 2000 to over 200 million kilograms by 2016. These numbers coincide with a fall in the purchase price of music as the medium has moved from vinyls and CDs to downloads: a CD in 2000 sold for 21,59 $ in 2000, while a digital album sold for 10.24 $ in 1994. Obviously, the download industry has been more or les outcompeted by streaming services that now offer unlimited streaming for 9,99 $ per month.
+
+How much data does streaming take?
+The different platforms have different streaming qualities with Spotify ranging between 24 kbps (free) and 320 kbps (premium), while Apple Music streams at 256 kbps. The approximate data usage is as follows:
+24 kbps = 90 MB per hour
+256 kbps = 1 GB per hour
+320 kbps = 1.2 GB per hour
+For calculating the CO2 emissions, see the article on videoconferencing: here, it is suggested that one GB of data amounts to 0.015 kWh, which, in Germany, would translate to roughly 0.0091 kgCO2e.
+
+
 
 ## External Links and References
 
