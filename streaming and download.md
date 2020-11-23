@@ -22,10 +22,10 @@ While CDs and vinyl records are an obvious source of plastic pollution, the envi
 
 How much data does streaming take?
 The different platforms have different streaming qualities with Spotify ranging between 24 kbps (free) and 320 kbps (premium), while Apple Music streams at 256 kbps. The approximate data usage is as follows:
-24 kbps = 90 MB per hour
-256 kbps = 1 GB per hour
-320 kbps = 1.2 GB per hour
-For calculating the CO2 emissions, see the article on videoconferencing: here, it is suggested that one GB of data amounts to 0.015 kWh, which, in Germany, would translate to roughly 0.0091 kgCO2e.
+- 24 kbps = 90 MB per hour
+- 256 kbps = 1 GB per hour
+- 320 kbps = 1.2 GB per hour
+For calculating the CO2 emissions, see the article on videoconferencing: here, it is suggested that one GB of data amounts to 0.015 kWh, which, in Germany, would translate to roughly 0.0091 kg of CO2e.
 
 
 
