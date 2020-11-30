@@ -5,7 +5,7 @@
 
 ## Summary of issue 
 
-With NIME moving to a hybrid format, video conferencing and communication will be essential for the conference. Additionally, the spread of COVID-19 has meant that the already established practice of everyday video conference calls has increased manyfold. While the carbon footprint of video calls is often significantly lower than that of non-local in-person meetings, a number of parameters can be considered in choosing the least polluting technologies and practices. Additionally, there have been a few privacy concerns related to Zoom in the pass [9].
+With NIME moving to a hybrid format, video conferencing and communication will be essential for the conference. Additionally, the spread of COVID-19 has meant that the already established practice of everyday video conference calls has increased manyfold. While the carbon footprint of video calls is often significantly lower than that of non-local in-person meetings, a number of parameters can be considered in choosing the least polluting technologies and practices. Additionally, there have been a few privacy concerns related to Zoom in the past [8].
 
 ## Questions Raised
 
