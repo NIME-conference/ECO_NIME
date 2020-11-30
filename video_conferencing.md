@@ -32,17 +32,19 @@ With NIME moving to a hybrid format, video conferencing and communication will b
 
 Based on these numbers, a rough calculation of the relationship between virtual and physical attendance for one person from Berlin for NIME 2021 in Shanghai:
 
-> 8 hours a day for four days (8 \* 4 \* 0.0091): 0.292 kg of CO2e. In comparison, a Flight from Berlin to Shanghai: 2.53 tonnes of CO2 
+| Attendance | Usage | Estimated CO2 footprint |
+|-|-|-|
+| Virtual | Videoconference 8hr a day for 4 days (8 \* 4 \* 0.0091) | 0.292 kg of CO2e |
+| Physical | Flight from Berlin to Shanghai | 2.53 tonnes of CO2e | 
 
 ### Video call sustainability parameters
 
 **Self-hosting:** By self-hosting the conference tools for NIME, we can choose a green provider rather than relying on servers beyond our control.
 
-- Jitsi: https://meet.jit.si/. Jitsi offers self-hosting. Environmental statement for 8x8 (the company owning Jitis) here: https://investors.8x8.com/corporate-responsibility/environment-policy/default.aspx
-[3] raises ethical concerns regarding excessive enumerations of executives.
-- Jami: https://jami.net/# . Recieves a high envorinmental score in [3] but seems to be in its infancy and may not be reliable enough for NIME. Another positive aspect of Savoir-faire Linux, (the company developing Jami) is a general Commitment toward a "sustainable economy based on cooperation and knowledge" [7].
-- Kopano Meet: https://meet-app.io/. Open source peer to peer video conferencing with paid options available (paid edition provides access to a hosted turn service). The company Kopano does not provide environmental statements, but Meet is mostly implemented in Golang which provides a small memory footprint.
-- Big Blue Button: https://bigbluebutton.org/. Allows for selfhosting, and has features for limiting the need for screensharing (thus limiting bandwidth) by sharing the pdf slides to each participant's computer, rather than having to screen share.
+- [Jitsi](https://meet.jit.si/): Jitsi offers self-hosting. Environmental statement for 8x8 (the company owning Jitis) [here](https://investors.8x8.com/corporate-responsibility/environment-policy/default.aspx). [3] raises ethical concerns regarding excessive enumerations of executives.
+- [Jami](https://jami.net/#): Recieves a high envorinmental score in [3] but seems to be in its infancy and may not be reliable enough for NIME. Another positive aspect of Savoir-faire Linux, (the company developing Jami) is a general Commitment toward a "sustainable economy based on cooperation and knowledge" [7].
+- [Kopano Meet](https://meet-app.io/): Open source peer to peer video conferencing with paid options available (paid edition provides access to a hosted turn service). The company Kopano does not provide environmental statements, but Meet is mostly implemented in Golang which provides a small memory footprint.
+- [Big Blue Button](https://bigbluebutton.org/): Allows for selfhosting, and has features for limiting the need for screensharing (thus limiting bandwidth) by sharing the pdf slides to each participant's computer, rather than having to screen share.
 
 ### Considerations for individuals
 
