@@ -40,6 +40,7 @@ Based on these numbers, a rough calculation of the relationship between virtual 
 - Jitsi: https://meet.jit.si/. Jitsi offers self-hosting. Environmental statement for 8x8 (the company owning Jitis) here: https://investors.8x8.com/corporate-responsibility/environment-policy/default.aspx
 [3] raises ethical concerns regarding excessive enumerations of executives.
 - Jami: https://jami.net/# . Recieves a high envorinmental score in [3] but seems to be in its infancy and may not be reliable enough for NIME. Another positive aspect of Savoir-faire Linux, (the company developing Jami) is a general Commitment toward a "sustainable economy based on cooperation and knowledge" [7].
+- Big Blue Button: https://bigbluebutton.org/. Allows for selfhosting, and has features for limiting the need for screensharing (thus limiting bandwidth) by sharing the pdf slides to each participant's computer, rather than having to screen share.
 - Peer-to-peer: https://kopano.com/ (paid).
 
 **Considerations for individuals:**
@@ -69,3 +70,4 @@ Lower the resolution of the video.
 
 - [Adam Pultz Melbye](mailto:mail@adampultz.com)
 - [Raul Masu](mailto:raul@raulmasu.org)
+- [Marije Baalman](mailto:sensestage@nescivi.nl)
