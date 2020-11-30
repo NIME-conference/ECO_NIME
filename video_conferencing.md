@@ -32,7 +32,7 @@ With NIME moving to a hybrid format, video conferencing and communication will b
 
 Based on these numbers, a rough calculation of the relationship between virtual and physical attendance for one person from Berlin for NIME 2021 in Shanghai:
 
-> 8 hours a day for four days (8 * 4 * 0.0091): 0.292 kg of CO2e. In comparison, a Flight from Berlin to Shanghai: 2.53 tonnes of CO2 
+> 8 hours a day for four days (8 \* 4 \* 0.0091): 0.292 kg of CO2e. In comparison, a Flight from Berlin to Shanghai: 2.53 tonnes of CO2 
 
 ### Video call sustainability parameters
 
