@@ -22,7 +22,7 @@ With NIME moving to a hybrid format, video conferencing and communication will b
 
 ## Notes
 
-**Carbon footprint of a video call:**
+### Carbon footprint of a video call
 
 - The energy efficiency of the internet has been roughly doubling every two years [1].
 - Video calls use 250 MB - 1.3 GB of data per participant per hour, depending on the quality [3].
@@ -30,12 +30,13 @@ With NIME moving to a hybrid format, video conferencing and communication will b
 - The German grid carbon footprint is (2018) 0.4690 kgCO2e per kWh [5]. Use link [5] to find the footprint of most countries.
 - One hour of video conferencing, then, is between 0.0018 and 0.0091 kgCO2e per hour of video conferencing. 
 
-Based on these numbers, a rough calculation of the relationship between virtual and physical attendance for one person from Berlin for next years NIME in Shanghai:
-8 hours a day for four days (8 * 4 * 0.0091): 0.292 kg of CO2e. In comparison, a Flight from Berlin to Shanghai: 2.53 tonnes of CO2 
+Based on these numbers, a rough calculation of the relationship between virtual and physical attendance for one person from Berlin for NIME 2021 in Shanghai:
 
-**Video call sustainability parameters:**
+> 8 hours a day for four days (8 * 4 * 0.0091): 0.292 kg of CO2e. In comparison, a Flight from Berlin to Shanghai: 2.53 tonnes of CO2 
 
-- Self-hosting: By self-hosting the conference tools for NIME, we can choose a green provider rather than relying on servers beyond our control.
+### Video call sustainability parameters
+
+**Self-hosting:** By self-hosting the conference tools for NIME, we can choose a green provider rather than relying on servers beyond our control.
 
 - Jitsi: https://meet.jit.si/. Jitsi offers self-hosting. Environmental statement for 8x8 (the company owning Jitis) here: https://investors.8x8.com/corporate-responsibility/environment-policy/default.aspx
 [3] raises ethical concerns regarding excessive enumerations of executives.
@@ -43,7 +44,7 @@ Based on these numbers, a rough calculation of the relationship between virtual 
 - Kopano Meet: https://meet-app.io/. Open source peer to peer video conferencing with paid options available (paid edition provides access to a hosted turn service). The company Kopano does not provide environmental statements, but Meet is mostly implemented in Golang which provides a small memory footprint.
 - Big Blue Button: https://bigbluebutton.org/. Allows for selfhosting, and has features for limiting the need for screensharing (thus limiting bandwidth) by sharing the pdf slides to each participant's computer, rather than having to screen share.
 
-**Considerations for individuals:**
+### Considerations for individuals
 
 Use optical fiber wifi rather than cellphone data: I haven't been able to find conclusive research, but [4] suggests that watching a video on the old 3G cellular network consumes 50 times more energy than on a wifi served by optical fiber cables.
 
