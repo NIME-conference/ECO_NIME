@@ -41,6 +41,7 @@ Based on these numbers, a rough calculation of the relationship between virtual 
 [3] raises ethical concerns regarding excessive enumerations of executives.
 - Jami: https://jami.net/# . Recieves a high envorinmental score in [3] but seems to be in its infancy and may not be reliable enough for NIME. Another positive aspect of Savoir-faire Linux, (the company developing Jami) is a general Commitment toward a "sustainable economy based on cooperation and knowledge" [7].
 - Kopano Meet: https://meet-app.io/. Open source peer to peer video conferencing with paid options available (paid edition provides access to a hosted turn service). The company Kopano does not provide environmental statements, but Meet is mostly implemented in Golang which provides a small memory footprint.
+- Big Blue Button: https://bigbluebutton.org/. Allows for selfhosting, and has features for limiting the need for screensharing (thus limiting bandwidth) by sharing the pdf slides to each participant's computer, rather than having to screen share.
 
 **Considerations for individuals:**
 
@@ -69,3 +70,4 @@ Lower the resolution of the video.
 
 - [Adam Pultz Melbye](mailto:mail@adampultz.com)
 - [Raul Masu](mailto:raul@raulmasu.org)
+- [Marije Baalman](mailto:sensestage@nescivi.nl)
