@@ -34,14 +34,15 @@ Spotify and Apple Music offer download options for offline listening. It's easy 
 
 ### Download services
 
-In addition to streaming-based services, platforms such as Boomkat offer downloads in a variety of formats. For lossless auido, the least polluting way would probably be to download FLAC files. VLC is available as an app for both ios and Android and will play any audio format.
+In addition to streaming-based services, platforms such as Boomkat offer downloads in a variety of formats. For lossless auido, the least polluting way would probably be to download FLAC files as they are significantly smaller than WAV. VLC is available as an app for both ios and Android and will play any audio format.
 
 ### General notes regarding streaming and download
 
 The server farms used by the individual streaming and download services will have a significant environmental impact (Greenpeace 2019). See upcoming article in this repository for an overview of the different web services.
 
-Google Cloud: Spotify
-Amazon Web Services (AWS): Soundcloud, Vimeo 
+### recommendations
+
+It is very difficult to think up sustainable alternatives for music distribution and consumption. One option is to rethink the nature of the release medium, since we are no longer tied to vinyls, CDs or casettes. Another is to prioritise repeated listening of downloaded music over the streaming of a variety of albums. Combining these considerations, we could imagine a physical item produced only to demand in order to eliminate stock. This medium could be of recycled materials and include a download code. 
 
 
 ## External Links and References
