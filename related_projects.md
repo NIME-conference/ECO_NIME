@@ -18,7 +18,7 @@ This page is the result of volunteer work, and therefore cannot be an exhaustive
 
 ### Special Issue "Sustainable Human-Computer Interaction Development"
 
-This Special Issue aim to contribute to an integrated understanding of the relevance of HCI methodologies and practices contribute to the development of sustainable infrastructures and tools, an how HCI practictioners and researchers can be involved in critical initiatives fostering sustainable development. Contributors from different fields are invited to submit their articles on reflectong on how HCI can contribute to develop sustainability.
+This Special Issue aim to contribute to an integrated understanding of the relevance of HCI methodologies and practices contribute to the development of sustainable infrastructures and tools, an how HCI practitioners and researchers can be involved in critical initiatives fostering sustainable development. Contributors from different fields are invited to submit their articles on reflecting on how HCI can contribute to develop sustainability.
 
 Deadline for manuscript submissions: 31 December 2020. 
 
@@ -26,7 +26,7 @@ More information: https://www.mdpi.com/journal/sustainability/special_issues/Hum
 
 ### **Climate. Sound. Change.**
 
-Climate. Sound. Change. is an call orginized by [Sound and Music](https://soundandmusic.org/), and the [British Music Collection](https://britishmusiccollection.org.uk/) that aim to " create space for composers whose work engages with and seeks to address current social issues". The project offer 3 £500 grants for musicians whose work is ment to respond to the climate emergency.
+Climate. Sound. Change. is an call orginized by [Sound and Music](https://soundandmusic.org/), and the [British Music Collection](https://britishmusiccollection.org.uk/) that aim to " create space for composers whose work engages with and seeks to address current social issues". The project offer 3 £500 grants for musicians whose work is meant to respond to the climate emergency.
 
 More information: https://britishmusiccollection.org.uk/article/opportunity-climate-sound-change
 
