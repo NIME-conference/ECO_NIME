@@ -53,6 +53,6 @@ Recenti report suggeriscono che le server farm utilizzate dai singoli servizi di
 
 ## Contributor(s)
 
-* [Adam Pultz Melbye](mail@adampultz.com)
-* Tradotto da [Raul MAsu](raul@raulmasu.org)
+* Articolo originale [Adam Pultz Melbye](mail@adampultz.com)
+* Tradotto in italiano da [Raul Masu](raul@raulmasu.org)
 
