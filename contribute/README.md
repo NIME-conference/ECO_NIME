@@ -12,6 +12,8 @@ To maintain a consistent format for all entries, a [template](template.md) is pr
 
 These are some of the topics we have identified to provide information about; if you want to contribute feel free to take one of these or add your own. 
 
+Additionally, we are interested in increasing diversity of contributors and overall accessibility of the wiki. Contributions are welcome and encouraged from diverse points of view, background, geographical area, gender, ability and more. In particular, we are interested in making entries available in multiple languages. For more information on wiki development, please see our [NIME 2021 paper](http://nime2021.org/program/#/paper/83). 
+
 #### Digital tools & techniques for research
 
 * [x] Machine learning
@@ -24,7 +26,7 @@ These are some of the topics we have identified to provide information about; if
 * [x] Communication and collaboration platforms (Slack alternatives)
 * [x] Video conferencing (Zoom alternatives)
 * [ ] Video hosting (YouTube alternatives)
-* [ ] Music streaming
+* [x] Music streaming
 
 ### Hardware
 
