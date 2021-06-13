@@ -10,10 +10,12 @@ To support sustainable practices within and beyond NIME as outlined in the [NIME
 
 1. [Communication and collaboration tools (Slack alternatives)](communication_chat_platform.md)
 2. [Machine learning](machine_learning.md)
-3. [Video conferencing (Zoom alternatives)](video_conferencing.md)
-4. [Web hosting](web_hosting.md)
-5. [3D printing: PLA](3d_printing_pla.md)
-6. [Related Projects](related_projects.md)
+3. [Music streaming](streaming_and_download.md)
+4. [Music streaming - ITA](ITA_streaming_and_download_di_Musica.md)
+5. [Video conferencing (Zoom alternatives)](video_conferencing.md)
+6. [Web hosting](web_hosting.md)
+7. [3D printing: PLA](3d_printing_pla.md)
+8. [Related Projects](related_projects.md)
 
 ----
 

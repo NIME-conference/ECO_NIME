@@ -13,6 +13,12 @@
 - [3D printing: PLA](3d_printing_pla.md)
 - [Related Projects](related_projects.md)
 
+## Book Club / Discussion Group
+
+- [Information](book_club/README.md)
+- [Meeting 1: The Great Animal Orchestra](book_club/Meeting_1_Krauss_The_Great_Animal_Orchestra.md)
+- [Meeting 2: There's No App For That](book_club/Meeting_2_Heinberg_Theres_No_App_For_That.md)
+
 ## Contribute to ECO_NIME
 
 - [How to contribute](contribute/README.md)
