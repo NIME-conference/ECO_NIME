@@ -1,83 +1,26 @@
----
-author:
-- Raul Masu
-copyright:
-  link: 'https://creativecommons.org/licenses/by/4.0/'
-  text: Creative Commons Attribution 4.0 International License
-  type: 'CC-BY'
-journal:
-  title: erre
-lang: en
-title: 'Book Club 2nd meeting - There''s No App for That: Technology and
-  Morality in the Age of Climate Change, Overpopulation, and
-  Biodiversity Loss - Richard Heinberg'
----
+## Book: There's No App for That: Technology and Morality in the Age of Climate Change, Overpopulation, and Biodiversity Loss
 
-**Notice:** This file is an auto-generated download and, as such, might
-include minor display or rendering errors. For the version of record,
-please visit the HTML version or download the PDF.
+## Author: Richard Heinberg
 
-------------------------------------------------------------------------
-
-<div>
-
-**License:** [Creative Commons Attribution 4.0 International License
-(CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
-
-</div>
-
-::: {.pub-body-component}
-::: {.editor .Prosemirror}
-There's No App for That: Technology and Morality in the Age of Climate Change, Overpopulation, and Biodiversity Loss - Richard Heinberg
-=======================================================================================================================================
-
-Free available at:
+Freely available at:
 https://www.postcarbon.org/publications/theres-no-app-for-that/
 
 People present in the book club meeting: Lior Arbel, Alex Lucas, Charlie
 Reimer, Alexandra Tibbitts, Johnny Sullivan, Raul Masu.
 
-\
-
-\
 
 This book has been proposed by Adam, who could not attend the meeting
 but wrote the following:
 
-*"I following the Postcarbon Institute and*
-[*Resilience.org*](http://Resilience.org)* for a while now, reading a
-number of Richard Heinberg's blogposts. His essay There's no app for
-that, was the first time I really became aware of the problems
-underlying a techno-solutionist approach to combating climate change and
-related issues. In addition, the focus on post- or de-growth has struck
-a chord with me.*
+> "I following the Postcarbon Institute and [*Resilience.org*](http://Resilience.org) for a while now, reading a number of Richard Heinberg's blogposts. His essay There's no app for that, was the first time I really became aware of the problems underlying a techno-solutionist approach to combating climate change and related issues. In addition, the focus on post- or de-growth has struck a chord with me.
+>
+> While we certainly should embrace low- and zero-carbon technologies, there are pitfalls in externalising solutions that propose to fix our problems while allowing us to live the way we always did. It's been a while since I read the text, but it drove the point home for me, that we need to rethink our entire system and not only implement green technologies. We cannot consume ourselves out of this problem, but need to address the problem by questioning the habits that got us here in the first place.
+> 
+> And I suspect there may be parallels to draw and lessons to learn for a community such as ours, that heavily relies on technology (although I agree that technology is not a new invention; the plow was a very succesful piece of modern technology once).
+>
+> Richard Heinberg has been criticised for his appearance in Michael Moore's depressing and error-prone documentary Planet of the Humans, where Heinberg talks about population growth as a global problem, which of course, from a resource-perspective is not the whole truth: the real problem is the overconsumption of the privileged and a failure to distribute resources evenly. This is not expressed in the Moore documentary, but from what I know of Heinberg's writing, this is also his point of view. In the end, he is a privileged white male and, as such, his thinking is likely to be biased in more or less obvious ways.
 
-*While we certainly should embrace low- and zero-carbon technologies,
-there are pitfalls in externalising solutions that propose to fix our
-problems while allowing us to live the way we always did. It's been a
-while since I read the text, but it drove the point home for me, that we
-need to rethink our entire system and not only implement green
-technologies. We cannot consume ourselves out of this problem, but need
-to address the problem by questioning the habits that got us here in the
-first place.*
-
-*And I suspect there may be parallels to draw and lessons to learn for a
-community such as ours, that heavily relies on technology (although I
-agree that technology is not a new invention; the plow was a very
-succesful piece of modern technology once).*
-
-*Richard Heinberg has been criticised for his appearance in Michael
-Moore's depressing and error-prone documentary Planet of the Humans,
-where Heinberg talks about population growth as a global problem, which
-of course, from a resource-perspective is not the whole truth: the real
-problem is the overconsumption of the privileged and a failure to
-distribute resources evenly. This is not expressed in the Moore
-documentary, but from what I know of Heinberg's writing, this is also
-his point of view. In the end, he is a privileged white male and, as
-such, his thinking is likely to be biased in more or less obvious
-ways."*
-
-\
+----
 
 During the discussion there was a general agreement about the importance
 of some points of the book. For istamve, the book is a very effective
@@ -111,23 +54,14 @@ tends to increase (not reduce)environmental impacts*" pag 33
 Related to economic inequality, we found the following quotes with
 reporting in this document:
 
-"*Henry Wallich (1914--1988), an American economist and central banker
-once said 'Growth is a substitute for equality of income. So long as
-there is growth there is hope, and that makes large income differentials
-tolerable.' If Wallich's quote is true, then so is the reverse. Greater
-equality of income is a substitute for growth, and it's an indispensable
-one, given the economy's expansion beyond biophysical limits*" Pag. 34
+>"Henry Wallich (1914--1988), an American economist and central banker once said 'Growth is a substitute for equality of income. So long as there is growth there is hope, and that makes large income differentials tolerable.' If Wallich's quote is true, then so is the reverse. Greater equality of income is a substitute for growth, and it's an indispensable one, given the economy's expansion beyond biophysical limits" Pag. 34
 
 One of the possible ideas to solve this issue is decoupling GDP growth
 from energy and resource consumption. However, decoupling that has been
 claimed to be achieved, seems to actually be the result of false
 accounting.
 
-"*Without decoupling, the contradiction between reducing inequality on
-one hand, and resolving our environmental problems on the other, remains
-firmly in place. Worse still, it turns out that "demographic transition"
-is really just a theoretical construct that doesn't fit the data evenly
-and doesn't necessarily have much predictive value*" pag 35-36
+>"Without decoupling, the contradiction between reducing inequality on one hand, and resolving our environmental problems on the other, remains firmly in place. Worse still, it turns out that "demographic transition" is really just a theoretical construct that doesn't fit the data evenly and doesn't necessarily have much predictive value*" pag 35-36
 
 During the discussion, Alex Tibbitts proposed the following reflection:
 "One thought for the group, this was written in 2017 \-- so the
@@ -142,11 +76,10 @@ majority of citizens*." pag 54
 Dopamine rush in phones and tablets is becoming a problem in today\'s
 relation to technology that was not so central in 2017. Charlie
 "Dopamine rush is a topic that comes up a lot in the media that I read."
-Here\'s a basic article on the topic:
+Here are two basic articles on the topic:
 
-<https://www.theguardian.com/technology/2018/mar/04/has-dopamine-got-us-hooked-on-tech-facebook-apps-addiction>
-
-<https://www.theguardian.com/technology/2019/mar/13/digital-wellness-phone-addiction-tech>
+- https://www.theguardian.com/technology/2018/mar/04/has-dopamine-got-us-hooked-on-tech-facebook-apps-addiction
+- https://www.theguardian.com/technology/2019/mar/13/digital-wellness-phone-addiction-tech
 
 One limit that we found in the book (particularly raised by Lior) is
 that it is quite mild in suggesting solutions. Apart from strong
@@ -158,7 +91,7 @@ In the final part of the discussion, we reconnect the discussion to the
 design of music technology, trying to reflect on how this book could
 influence the development of an agenda of our music technology.
 
-Alex commenting on her project with Jonny about the augmented arp
+Alex commenting on her project with Johnny about the augmented harp
 (https://bionicharp.ist/), said that one element she was happy about it
 was the fact that they were not creating a new instrument, so no
 creating waste, but adapt an instrument that they already had (the arp).
@@ -192,8 +125,3 @@ none of us is an expert in economy, so this final remark is more though
 than an actual informed reflection.
 
 Book club telegram group: https://t.me/joinchat/sFbB7cmED3BiYjNk
-
-::: {.pub-notes}
-:::
-:::
-:::

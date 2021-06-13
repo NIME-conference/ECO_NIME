@@ -1,42 +1,10 @@
----
-author:
-- Raul Masu
-copyright:
-  link: 'https://creativecommons.org/licenses/by/4.0/'
-  text: Creative Commons Attribution 4.0 International License
-  type: 'CC-BY'
-journal:
-  title: erre
-lang: en
-title: 'Book Club 1st Meeting - The Great Animal Orchestra: Finding the
-  Origins of Music in the World\''s Wild Places'
----
+## Book: The Great Animal Orchestra: Finding the Origins of Music in the World\'s Wild Places
 
-**Notice:** This file is an auto-generated download and, as such, might
-include minor display or rendering errors. For the version of record,
-please visit the HTML version or download the PDF.
-
-------------------------------------------------------------------------
-
-<div>
-
-**License:** [Creative Commons Attribution 4.0 International License
-(CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
-
-</div>
-
-::: {.pub-body-component}
-::: {.editor .Prosemirror}
-Book: The Great Animal Orchestra: Finding the Origins of Music in the World\'s Wild Places
-==========================================================================================
-
-Bernie Krause
--------------
+## Author: Bernie Krause
 
 People present in the book club meeting: Lior Arbel, Alex Lucas, Anesio
 Azevedo, Charlie Reimer, Johnny Sullivan, Adam Pultz Melbye, Raul Masu.
 
-\
 The discussion emerged primarily from chapter 8.
 
 In the book, it is described the disruptive impact that noise can have
@@ -55,14 +23,13 @@ sound environments in recent years.
 "Based on many years of field experience and how much uninterrupted
 natural sound in a wild habitat I'm able to record in an hour, I'll make
 an educated guess that anthrophony can be heard in" Bernie Krause - The
-Great Animal Orchestra: Finding the Origins of Music in the World\'s
+Great Animal Orchestra: Finding the Origins of Music in the World's
 Wild Places - Chapter 8
 
 In the discussion, the concept of the Acoustic Niche Hypothesis emerged.
 The Acoustic Niche Hypothesis stands for: \"Each creature appears to
 have its own sonic niche (channel, or space) in the frequency spectrum
-and/or time-slot occupied by no other at that particular moment.\"
-<http://earthear.com/dunn.html>
+and/or time-slot occupied by no other at that particular moment.\" [link](http://earthear.com/dunn.html)
 
 We also discussed other authors discussing field recording and listening
 modalities. For instance the concept by Schaeffer emerged. "Dissatisfied
@@ -78,8 +45,7 @@ unique timbral characteristics, tonal peculiarities, strange and
 interesting textures. Our perception of these qualities, he recognized,
 was hindered by the associations and references that sounds inherently
 carry. The trick was to find a way to hide the associations in order to
-bring the musical qualities of those sounds to the forefront."
-<https://www.factmag.com/2016/02/23/pierre-schaeffer-guide/>
+bring the musical qualities of those sounds to the forefront." [link](https://www.factmag.com/2016/02/23/pierre-schaeffer-guide/)
 
 Additionally, the work by R. Murray Schafer on the soundscape emerged.
 In particular, as he was the first who directly spoke about soundscape.
@@ -88,7 +54,6 @@ In particular, as he was the first who directly spoke about soundscape.
 republished as *The Soundscape* (1994)
 [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier) "ISBN (identifier)") [978-0-89281-455-8](https://en.wikipedia.org/wiki/Special:BookSources/978-0-89281-455-8 "Special:BookSources/978-0-89281-455-8"))
 
-\
 In chapter 8 it also emerged that the word soundscape has political
 value, with ecological and environmental implications. This emerges
 while discussing the Natural Soundscape Program, whose name was changed
@@ -101,29 +66,19 @@ the 11th district of California urged Secretary of the Interior Gale
 Norton to alter the name, changiing the term Soundscape into Sounds.
 according to them the term "*soundscape* was too loaded (translation:
 'green,')" Bernie Krause - The Great Animal Orchestra: Finding the
-Origins of Music in the World\'s Wild Places - Chapter 8
+Origins of Music in the World's Wild Places - Chapter 8
 
 Kraus also reported the worlds by Don Young "in a 2006 *Rolling Stone*
 article, where Young is quoted as saying that 'environmentalists are a
 self-centered bunch of waffle-stomping, Harvard-graduating, intellectual
 idiots' who 'are not Americans, never have been Americans, never will be
 Americans.'" Bernie Krause - The Great Animal Orchestra: Finding the
-Origins of Music in the World\'s Wild Places - Chapter 8
+Origins of Music in the World's Wild Places - Chapter 8
 
 Discussing the controversy of the term soundscape, a paper by Stefan
 Helmreich emerged: INGOLD, Timothy. Against soundscape. In: CARLYLE, A.
 (ed.). Autumn leaves: sound and the environment in artistic practice.
-Paris: Double Entendre, 2007. p. 10-13.
-<http://anthropology.mit.edu/sites/default/files/documents/helmreich_listening_against_soundscapes.pdf>
-
-\
+Paris: Double Entendre, 2007. p. 10-13. [link](http://anthropology.mit.edu/sites/default/files/documents/helmreich_listening_against_soundscapes.pdf)
 
 As instrument makers and music technologies, we could probably
 contribute to raising awareness on these topics.
-
-\
-
-::: {.pub-notes}
-:::
-:::
-:::
