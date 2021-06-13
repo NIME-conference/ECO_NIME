@@ -1,4 +1,4 @@
-## Book: The Great Animal Orchestra: Finding the Origins of Music in the World\'s Wild Places
+## Book: The Great Animal Orchestra: Finding the Origins of Music in the World's Wild Places
 
 ## Author: Bernie Krause
 
@@ -29,7 +29,7 @@ Wild Places - Chapter 8
 In the discussion, the concept of the Acoustic Niche Hypothesis emerged.
 The Acoustic Niche Hypothesis stands for: \"Each creature appears to
 have its own sonic niche (channel, or space) in the frequency spectrum
-and/or time-slot occupied by no other at that particular moment.\" [link](http://earthear.com/dunn.html)
+and/or time-slot occupied by no other at that particular moment.\" [[link](http://earthear.com/dunn.html)]
 
 We also discussed other authors discussing field recording and listening
 modalities. For instance the concept by Schaeffer emerged. "Dissatisfied
@@ -45,14 +45,11 @@ unique timbral characteristics, tonal peculiarities, strange and
 interesting textures. Our perception of these qualities, he recognized,
 was hindered by the associations and references that sounds inherently
 carry. The trick was to find a way to hide the associations in order to
-bring the musical qualities of those sounds to the forefront." [link](https://www.factmag.com/2016/02/23/pierre-schaeffer-guide/)
+bring the musical qualities of those sounds to the forefront." [[link](https://www.factmag.com/2016/02/23/pierre-schaeffer-guide/)]
 
 Additionally, the work by R. Murray Schafer on the soundscape emerged.
 In particular, as he was the first who directly spoke about soundscape.
 (cfr *The Tuning of the World (The Soundscape)* (1977)
-[ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier) "ISBN (identifier)") [978-0-394-40966-5](https://en.wikipedia.org/wiki/Special:BookSources/978-0-394-40966-5 "Special:BookSources/978-0-394-40966-5"),
-republished as *The Soundscape* (1994)
-[ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier) "ISBN (identifier)") [978-0-89281-455-8](https://en.wikipedia.org/wiki/Special:BookSources/978-0-89281-455-8 "Special:BookSources/978-0-89281-455-8"))
 
 In chapter 8 it also emerged that the word soundscape has political
 value, with ecological and environmental implications. This emerges
@@ -78,7 +75,7 @@ Origins of Music in the World's Wild Places - Chapter 8
 Discussing the controversy of the term soundscape, a paper by Stefan
 Helmreich emerged: INGOLD, Timothy. Against soundscape. In: CARLYLE, A.
 (ed.). Autumn leaves: sound and the environment in artistic practice.
-Paris: Double Entendre, 2007. p. 10-13. [link](http://anthropology.mit.edu/sites/default/files/documents/helmreich_listening_against_soundscapes.pdf)
+Paris: Double Entendre, 2007. p. 10-13. [[link](http://anthropology.mit.edu/sites/default/files/documents/helmreich_listening_against_soundscapes.pdf)]
 
 As instrument makers and music technologies, we could probably
 contribute to raising awareness on these topics.
