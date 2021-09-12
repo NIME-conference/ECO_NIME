@@ -11,6 +11,10 @@
 - [Video conferencing (Zoom alternatives)](video_conferencing.md)
 - [Web hosting](web_hosting.md)
 - [3D printing: PLA](3d_printing_pla.md)
+
+## Calls and Related Projects
+
+- [Call for Submissions: DACA 2022](Data_Art_for_Climate_Action_DACA_2022.md)
 - [Related Projects](related_projects.md)
 
 ## Book Club / Discussion Group
