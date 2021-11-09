@@ -1,6 +1,3 @@
-<!-- Copy this template to add a new topic. Replace text in {brackets} with your content. -->
-<!-- Template created for ECO_NIME wiki entries by Johnny Sullivan -->
-
 # Related Projects 
 
 In the last years, environmental awareness is increasingly growing. Consequently, a number of artistic and music initiatives, as well as HCI projects related to the need of battling the effects of climate change has emerged. 
