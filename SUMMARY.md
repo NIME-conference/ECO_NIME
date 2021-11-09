@@ -6,8 +6,7 @@
 
 - [Chat and collaboration (Slack alternatives)](chat_collaboration_tools.md)
 - [Machine learning](machine_learning.md)
-- [Music streaming](streaming_and_download.md)
-- [Music streaming (Italian)](ITA_streaming_and_download_di_Musica.md)
+- Music streaming [[English](streaming_and_download.md)] [[Italian](ITA_streaming_and_download_di_Musica.md)]
 - [Video conferencing (Zoom alternatives)](video_conferencing.md)
 - [Web hosting](web_hosting.md)
 - [3D printing with PLA](3d_printing_pla.md)
@@ -15,10 +14,8 @@
 ## Calls and Related Projects
 
 - [Related Projects](related_projects.md)
-  - [Projeto: Cerrado - Anésio Neto (English)](cerrado_EN.md)
-  - [Projeto: Cerrado - Anésio Neto (Portuguese)](cerrado_PS.md)
-- Calls and upcoming events
-  - [Call for Submissions: DACA 2022](Data_Art_for_Climate_Action_DACA_2022.md)
+- Projeto: Cerrado - Anésio Neto [[English](cerrado_EN.md)] [[Portuguese](cerrado_PS.md)]
+- [Call for Submissions: DACA 2022](Data_Art_for_Climate_Action_DACA_2022.md)
 
 ## Book Club / Discussion Group
 
