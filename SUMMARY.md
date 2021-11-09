@@ -15,7 +15,8 @@
 ## Calls and Related Projects
 
 - [Related Projects](related_projects.md)
-  - [Cerrado - Anésio Neto (English)](cerrado.md)
+  - [Projeto: Cerrado - Anésio Neto (English)](cerrado_EN.md)
+  - [Projeto: Cerrado - Anésio Neto (Portuguese)](cerrado_PS.md)
 - Calls and upcoming events
   - [Call for Submissions: DACA 2022](Data_Art_for_Climate_Action_DACA_2022.md)
 
