@@ -1,14 +1,16 @@
-﻿![Aeolis](media/Aeolis cover image.jpg)
-
+﻿
 **Aeolis: A Virtual Instrument Producing Pitched Tones With Soundscape Timbres**
 
 **Lior Arbel**
+***https://www.liorarbel.com***
+***[lior.e.arbel@gmail.com](mailto:lior.e.arbel@gmail.com)***
 
-**[lior.e.arbel@gmail.com](mailto:lior.e.arbel@gmail.com)**
+![Aeolis](media/Aeolis_cover_image.jpg)
+
+**[video](https://www.youtube.com/watch?v=Fj9xhr2w3yU&t=3s)**
 
 Soundscapes and amebient sounds are the fundamental building blocks of soundscape composition. Aeolis is a software instrument which uses soundscapes to produce pitched tones. The instrument is driven with a real-time or a prerecorded input signal of a broadband soundscape, such as the sound of breaking waves or highway traffic. The instrument processes the input signal and generates tones that have a perceived pitch while retaining the identifiable raw texture, timbre and dynamics of the input sound. In simple terms, given input sounds of waves breaking on a beach – Aeolis becomes a synthesizer of sorts which sounds like the same breaking waves, with a perceived pitched.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Fj9xhr2w3yU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The inspiration for this project was found in everyday soundscapes and environments, such as passing cars, breaking beach waves and rustling leaves. The project’s purpose is to create a convincing anthropomorphic sensation in which the environment itself (beach, forest, highway) is perceived to be ‘coming alive’ and producing music. 
 
