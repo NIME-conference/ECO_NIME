@@ -24,9 +24,9 @@ I CD e i dischi in vinile siano un'ovvia fonte di inquinamento da plastica. Sebb
 
 Quanti dati richiede lo streaming?
 Le diverse piattaforme hanno qualità di streaming diverse. Ad esempio, Spotify offre seervizi che vanno da 24 kbps (gratuito) e 320 kbps (premium), mentre Apple Music trasmette a 256 kbps. L'utilizzo approssimativo dei dati è il seguente: 
-- 24 kbps = 90 MB per ora
-- 256 kbps = 1 GB per ora
-- 320 kbps = 1.2 GB per ora
+- 24 kbps = 10.5 MB per ora
+- 256 kbps = 112.5 MB per ora
+- 320 kbps = 140.6 MB per ora
 
 Per il calcolo delle emissioni di CO2, consigliamo l'articolo sulla videoconferenza in questa wiki. In breve, un GB di dati corrisponde tendenzialmente a 0,015 kWh. In Germania, tale consumo si tradurrebbe in circa 0,0091 kg di CO2e. Si tenga presente che questo conto si applica solo all'impatto ambientale immediato per il consumatore e non per il fornitore di servizi.
 
