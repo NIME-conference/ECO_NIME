@@ -7,7 +7,7 @@
 - [Chat and collaboration (Slack alternatives)](chat_collaboration_tools.md)
 - [Machine learning](machine_learning.md)
 - [Music streaming (English)](streaming_and_download.md)
-- [Music streaming (Italilan)](ITA_streaming_and_download_di_Musica.md)
+- [Music streaming (Italian)](ITA_streaming_and_download_di_Musica.md)
 - [Video conferencing (Zoom alternatives)](video_conferencing.md)
 - [Web hosting](web_hosting.md)
 - [3D printing with PLA](3d_printing_pla.md)
