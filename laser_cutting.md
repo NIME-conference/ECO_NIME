@@ -46,7 +46,7 @@ A few practical measures can be taken to ensure your project does not become obs
 ### Open Source CAD and CAM
 
 Softwares like **FreeCAD** [[1]], **Inkscape** [[2]], and **LibreCAD** [[3]] are completely free, open source and cross-platform, which means that virtually anyone can use them without having to pay any license. This practice breaks a thick barrier and allows you and future users to easily produce spare parts and/or edit your project without starting from scratch, saving time and resources. 
-Same principle can be applied to the CAM software that is used to generate the gcode, there are some open source applications [[4]] [[5]] that can be use instead of commercial ones
+Same principle can be applied to the CAM software that is used to generate the gcode, there are some open source applications [[4]] [[5]] that can be use instead of commercial ones.
 
 ### Documentation
 
@@ -72,6 +72,7 @@ If your design involves some mechanical properties that are potentially tricky, 
 #### Materials
 
 Laser cutters can cut many different materials, and it is more than advisable that users consider the environmental consequences of using them. Materials like MDF [[9]], for instance, are very cheap but based on synthetic adhesives. MDF is not biodegradable and has no carbon offset value, so it is better not to use it.
+Also, keep in mind that a lasercutter basically **burns** a material to cut it, and because of this, there are many materials that are not usable with those machines due to the toxic emissions that they provoke when burning (for example PVC, but the list is quite long [[13]]).
 
 Instead, it is advisable to go for cardboard, which is extremely easy to get, carry around, and recycle. Also, when working with wood (very common material for laser cutting), ensure it comes from a sustainable chain, such as FSC [[7]] or PEFC [[8]]-certified wood. 
 
@@ -94,6 +95,7 @@ In short, try to do some research when choosing the materials to use in your pro
 [[10]] https://theroundup.org/is-felt-biodegradable-and-eco-friendly/#:~:text=Yes%2C%20natural%20wool%20felt%20can,therefore%20not%20a%20renewable%20resource.
 [[11]] https://sdgs.un.org/topics/chemicals-and-waste
 [[12]] https://single-market-economy.ec.europa.eu/industry/sustainability_en
+[[13]] https://www.troteclaser.com/en-us/learn-support/faqs/unsuitable-materials-laser-processing
 
 
 [.3]: https://all3dp.com/1/3d-printing-support-structures/ "All3DP Support Structures"
