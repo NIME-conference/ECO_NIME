@@ -95,39 +95,6 @@ If your design involves some mechanical properties that are potentially tricky, 
 
 
 
-[[1]] https://www.raypcb.com/smd-vs-tht-vs-smt/#:~:text=SMDs%20are%20components%20manufacturers%20place,circuit%20board%20by%20wave%20soldering.
-[[2]] https://www.zaxis.net/smd-package-types-sizes/
-[[3]] https://opensource.com/resources/what-are-open-standards
-[[4]] https://www.arduino.cc/en/hardware
-[[5]] https://www.wemos.cc/en/latest/#
-[[6]] https://www.arduino.cc/en/software
-[[7]] https://micropython.org/
-[[8]] https://www.kicad.org/
-[[9]] https://www.openhardware.io/
-[[10]] https://bitbucket.org/jpcgt/flatcam/src/master/
-[[11]] https://www.wevolver.com/article/pcb-panelization-everything-you-need-to-know
-[[12]] https://hackaday.com/2020/04/25/kicad-panelization-made-easy/
-
-
-[.3]: https://all3dp.com/1/3d-printing-support-structures/ "All3DP Support Structures"
-[.4]: https://all3dp.com/2/filament-spool-8-ways-to-safely-store-your-filament/ "All3DP Filament Storage"
-[.5]: https://www.thingiverse.com/thing:190118 "Filament Dust Filter"
-[.6]: https://www.filamentive.com/ "Filamentive"
-[.7]: https://hackaday.com/2019/12/08/from-fail-to-wail-guitar-picks-made-from-3d-printed-waste/ "Waste Plectrums"
-[.8]: https://all3dp.com/weekend-project-laser-cutting-3d-printed-trash/ "Plastic Smoothie"
-[.9]: https://www.filabot.com/ "Filabot"
-[.10]: https://www.instructables.com/Build-your-own-3d-printing-filament-factory-Filame/ "Filame"
-[.11]: https://reprap.org/wiki/RepRapable_Recyclebot:_Open_source_3-D_printable_extruder_for_converting_plastic_to_3-D_printing_filament
-
-[1]: https://www.filamentive.com/how-sustainable-is-pla/  
-[2]: https://www.scientificamerican.com/article/environmental-impact-of-corn-based-plastics/  
-[3]: https://all3dp.com/2/3d-printer-recycled-plastic-tips-for-your-waste-plastic/  
-[4]: https://www.theguardian.com/environment/2008/apr/26/waste.pollution  
-[5]: https://www.sciencedirect.com/science/article/pii/S0301479718310016  
-[6]: https://dl.acm.org/doi/10.1145/3322276.3322320  
-[7]: https://all3dp.com/2/is-pla-recyclable/  
-[8]: https://www.filamentive.com/the-3d-printing-waste-problem/
-
 ## Contributor
 
 * [Nicolò Nerendino (aka "Chi ha ucciso Il Conte?")](https://chihauccisoilconte.eu/)
