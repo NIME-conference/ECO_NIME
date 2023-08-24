@@ -1,7 +1,7 @@
 <!-- Copy this template to add a new topic. Replace text in {brackets} with your content. -->
 <!-- Template created for ECO_NIME wiki entries by Johnny Sullivan -->
 
-# Circuit Production
+# Hardware Optimization and Durability
 
 <!-- replace 'Template' with short title; this will be page title when published -->
 
