@@ -56,6 +56,9 @@ A unique recommendation to answer the questions above is the following: **Use op
 
 **FreeCAD** [[1]] is a free and open-source 3D CAD software that allows users to create and edit parametric 3D models with a comprehensive set of tools and a user-friendly interface. - here, you can find a series of tutorials to get familiar with this software [[2]]
 
+![alt text](media/freecadsceenshot1.png "3D model in FreeCAD")
+
+
 **OpenSCAD** [[3]] is a free and open-source script-based 3D CAD software that allows users to create and modify complex solid objects using a programming language. - here, you can find a series of tutorials to get familiar with this software [[4]]
 
 **Blender** [[5]] is a free and open-source 3D creation software that allows users to create and animate 3D models, scenes, and visual effects for films, video 
