@@ -48,6 +48,9 @@ One of the problems that exist in the world of electronic industry, is the fact 
 It is advisable that, when we design a circuit, we make sure the components we chose are easy enough to facilitate the replacement of those. 
 THT components or SMD components that are big enough (1206 or bigger) [[1]] [[2]] do represent a valid option in this regard.
 
+![alt text](media/kicadresult.jpg "Arduino shield with THT components on it, very easy to hack and fix!")
+
+
 ### Open Standards 
 
 Another important strategy that we can follow is the one of adopting open-standards-based workflow [[3]], so that our interfaces do not require particular equipment to be used (es USBC for powering instead of other connectors). In this way, we will prevent obsolescence and help future users interact with our design.
@@ -66,6 +69,12 @@ A very useful strategy to prevent the obsolescence of the circuits we make is to
 
 Using open-source software such as KiCAD [[8]] or Fritzing can be a viable solution to ensure that people in the future will be able to redesign or reproduce our product without having to spend big amounts of money or, worse, having to get a no-longer-available version of a CAD software.
 
+
+![alt text](media/soniccubekicadschema.png.png "Sonic Cube Project KiCAD screenshot")
+![alt text](media/soniccubekicadpcb.png "Sonic Cube Project KiCAD screenshot")
+
+
+
 ### Well document your project
 
 Also, making a repository where you upload schematics, GBR files, a BOM containing all the components used, code, and so on is very advisable. Open Hardware Foundation [[9]] offers precious guidelines to achieve this important goal
@@ -81,10 +90,20 @@ Instead, CNC milling your circuit can be a valid alternative. To CNC your circui
 This process can be carried out using an open-source software named **FlatCAM** [10] and a CNC milling machine, a tool that can be easily found in fablabs/makerspaces. This process can also be useful to test your circuit before going for a larger production.
 After your circuit is done and the components are soldered, spraying them with a protective film is a good idea to prevent oxidation.
 
+![alt text](media/flatcamscreenshot.png.png "Screenshots of FlatCAM gcode preparation")
+![alt text](media/cnc1.png "CNC milling a PCB")
+![alt text](media/cnc2.png "CNC Milled PCB with SMD components soldered on it")
+
+
+
 ### Optimize Production 
 
 Suppose you decide to commission the production of your PCB to an external manufacturer (that’s often the case when you need many circuits). In that case, it is advisable to work on the efficiency of the proses through **panelization** [[11]], which is a way to “attach” several copies of the circuit into a single file, so that no material is wasted. There’s a KiCAD extension that can facilitate this process [[12]]
 Also, when ordering circuits outside, try to order several designs at once and/or gang up with other designers, so that the environmental footprint of your circuits shipping is amortized.
+
+![alt text](media/soniccubekicadpanel.jpg "KiCAD 3D view of a series of PCBs")
+![alt text](media/soniccubekicadpanel2.jpg "PCB panel produced")
+
 
 
 ## External Links and References
