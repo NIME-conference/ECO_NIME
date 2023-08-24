@@ -70,7 +70,7 @@ A very useful strategy to prevent the obsolescence of the circuits we make is to
 Using open-source software such as KiCAD [[8]] or Fritzing can be a viable solution to ensure that people in the future will be able to redesign or reproduce our product without having to spend big amounts of money or, worse, having to get a no-longer-available version of a CAD software.
 
 
-![alt text](media/soniccubekicadschema.png.png "Sonic Cube Project KiCAD screenshot")
+![alt text](media/soniccubekicadschema.png "Sonic Cube Project KiCAD screenshot")
 ![alt text](media/soniccubekicadpcb.png "Sonic Cube Project KiCAD screenshot")
 
 
@@ -90,7 +90,7 @@ Instead, CNC milling your circuit can be a valid alternative. To CNC your circui
 This process can be carried out using an open-source software named **FlatCAM** [10] and a CNC milling machine, a tool that can be easily found in fablabs/makerspaces. This process can also be useful to test your circuit before going for a larger production.
 After your circuit is done and the components are soldered, spraying them with a protective film is a good idea to prevent oxidation.
 
-![alt text](media/flatcamscreenshot.png.png "Screenshots of FlatCAM gcode preparation")
+![alt text](media/flatcamscreenshot.png "Screenshots of FlatCAM gcode preparation")
 ![alt text](media/cnc1.png "CNC milling a PCB")
 ![alt text](media/cnc2.png "CNC Milled PCB with SMD components soldered on it")
 
