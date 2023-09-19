@@ -13,25 +13,25 @@ To support sustainable practices within and beyond NIME as outlined in the [NIME
 ### Entries
 
 #### Digital tools and techniques
-- [Machine learning](entries/digital-tools/machine_learning.md)
-- [Open source CAD for TUIs](entries/digital-tools/open_source_cad_for_tuis.md)
-- [Open standards and interoperability](entries/digital-tools/open_standards_and_interoperability.md)
+- [Machine learning](/entries/digital-tools/machine_learning.md)
+- [Open source CAD for TUIs](/entries/digital-tools/open_source_cad_for_tuis.md)
+- [Open standards and interoperability](/entries/digital-tools/open_standards_and_interoperability.md)
 
 #### Services
 
-- [Chat and collaboration (Slack alternatives)](entries/services/chat_collaboration_tools.md)
-- [Video conferencing (Zoom alternatives)](entries/services/video_conferencing.md)
+- [Chat and collaboration (Slack alternatives)](/entries/services/chat_collaboration_tools.md)
+- [Video conferencing (Zoom alternatives)](/entries/services/video_conferencing.md)
 - [Web hosting](web_hosting.md)
-- [Music streaming (English)](entries/services/streaming_and_download.md)
-- [Music streaming (Italian)](entries/services/ITA_streaming_and_download_di_Musica.md)
+- [Music streaming (English)](/entries/services/streaming_and_download.md)
+- [Music streaming (Italian)](/entries/services/ITA_streaming_and_download_di_Musica.md)
 
 #### Hardware
-- [3D printing with PLA](entries/hardware/3d_printing_pla.md)
-- [3D printing: sustainable practices](entries/hardware/3d_printing_sustainable_practices.md)
-- [Circuits](entries/hardware/circuits.md)
-- [CNC milling](entries/hardware/cnc_milling.md)
-- [Hardware Optimization and Durability](entries/hardware/hardware_optimization_and_durability.md)
-- [Laser cutting](entries/hardware/laser_cutting.md)
+- [3D printing with PLA](/entries/hardware/3d_printing_pla.md)
+- [3D printing: sustainable practices](/entries/hardware/3d_printing_sustainable_practices.md)
+- [Circuits](/entries/hardware/circuits.md)
+- [CNC milling](/entries/hardware/cnc_milling.md)
+- [Hardware Optimization and Durability](/entries/hardware/hardware_optimization_and_durability.md)
+- [Laser cutting](/entries/hardware/laser_cutting.md)
 
 <!-- #### Travel -->
 
