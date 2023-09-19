@@ -37,10 +37,10 @@ To support sustainable practices within and beyond NIME as outlined in the [NIME
 
 ### Calls and Related Projects
 
-- [Related Projects](calls-and-projects/related_projects.md)
-- Projeto: Cerrado - Anésio Neto [[English](calls-and-projects/cerrado_EN.md)] [[Portuguese](calls-and-projects/cerrado_PS.md)]
-- Project: Aeolis - Lior Arbel [[English](calls-and-projects/aeolis_EN.md)] [[Hebrew](calls-and-projects/aeolis_HE.md)]
-- [Call for Submissions: DACA 2022](calls-and-projects/Data_Art_for_Climate_Action_DACA_2022.md)
+- [Related Projects](/calls-and-projects/related_projects.md)
+- Projeto: Cerrado - Anésio Neto [[English](/calls-and-projects/cerrado_EN.md)] [[Portuguese](/calls-and-projects/cerrado_PS.md)]
+- Project: Aeolis - Lior Arbel [[English](/calls-and-projects/aeolis_EN.md)] [[Hebrew](/calls-and-projects/aeolis_HE.md)]
+- [Call for Submissions: DACA 2022](/calls-and-projects/Data_Art_for_Climate_Action_DACA_2022.md)
 
 ### Book Club / Discussion Group
 

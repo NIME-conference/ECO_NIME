@@ -31,12 +31,12 @@
 
 ## Calls and Related Projects
 
-- [Related Projects](calls-and-projects/related_projects.md)
-- [Project: Aeolis - Lior Arbel (English)](calls-and-projects/aeolis_EN.md)
-- [Project: Aeolis - Lior Arbel (Hebrew)](calls-and-projects/aeolis_HE.md)
-- [Projeto: Cerrado - Anésio Neto (English)](calls-and-projects/cerrado_EN.md)
-- [Projeto: Cerrado - Anésio Neto (Portuguese)](calls-and-projects/cerrado_PS.md)
-- [Call for Submissions: DACA 2022](calls-and-projects/Data_Art_for_Climate_Action_DACA_2022.md)
+- [Related Projects](/calls-and-projects/related_projects.md)
+- [Project: Aeolis - Lior Arbel (English)](/calls-and-projects/aeolis_EN.md)
+- [Project: Aeolis - Lior Arbel (Hebrew)](/calls-and-projects/aeolis_HE.md)
+- [Projeto: Cerrado - Anésio Neto (English)](/calls-and-projects/cerrado_EN.md)
+- [Projeto: Cerrado - Anésio Neto (Portuguese)](/calls-and-projects/cerrado_PS.md)
+- [Call for Submissions: DACA 2022](/calls-and-projects/Data_Art_for_Climate_Action_DACA_2022.md)
 
 ## Book Club / Discussion Group
 
