@@ -4,13 +4,30 @@
 
 ## Entries
 
-- [Chat and collaboration (Slack alternatives)](chat_collaboration_tools.md)
+### Digital tools and techniques
 - [Machine learning](machine_learning.md)
-- [Music streaming (English)](streaming_and_download.md)
-- [Music streaming (Italian)](ITA_streaming_and_download_di_Musica.md)
+- [Open source CAD for TUIs](open_source_cad_for_tuis.md)
+- [Open standards and interoperability](open_standards_and_interoperability.md)
+
+### Service
+
+- [Chat and collaboration (Slack alternatives)](chat_collaboration_tools.md)
 - [Video conferencing (Zoom alternatives)](video_conferencing.md)
 - [Web hosting](web_hosting.md)
+- [Music streaming (English)](streaming_and_download.md)
+- [Music streaming (Italian)](ITA_streaming_and_download_di_Musica.md)
+
+### Hardware
 - [3D printing with PLA](3d_printing_pla.md)
+- [3D printing: sustainable practices](3d_printing_sustainable_practices.md)
+- [Circuits](circuits.md)
+- [CNC milling](cnc_milling.md)
+- [Hardware Optimization and Durability][hardware_optimization_and_durability.md]
+- [Laser cutting](laser_cutting.md)
+
+<!-- ### Travel -->
+
+---
 
 ## Calls and Related Projects
 

@@ -8,7 +8,7 @@ Brazil is the fifth largest country in the world, covering approximately 8,515,7
 
 While much has been said about the Amazon, little has been reported in the international media about other Brazilian ecosystems that have been under similar attacks. Brazil is composed of six ecoregions or, according to the definition of the Brazilian geographer Aziz Ab’saber (1977), morphoclimatic zones. This name is more appropriate, as it takes into account not only the taxonomic characteristics of species that make up the fauna and flora of a region, but also characteristics of orography, climate, soil, and vegetation to define the different reqions of Brazil. In addition to the Amazon equatorial zone where the Amazon rainforest is located, the Cerrado, the Atlantic Forest, Caatinga, Araucaria Forests and Prairies compose the vast Brazilian landscape mosaic.
 
-![Map of Brazil showing the Cerrado](media/cerrado_map.png)
+![Map of Brazil showing the Cerrado](/media/cerrado_map.png)
 
 > **Figure 1**: Image source -
 https://edition.cnn.com/2019/09/22/americas/brazil-cerrado-soy-intl/index.html
@@ -30,7 +30,7 @@ All the creation of audiovisual performances and multimedia installations flow f
 ## Primavera
 
 “Primavera”[^1] was composed based on the dynamics of biophony in the rainy seasons of the Brazilian Cerrado[^2]. The low and high frequency drones (repeated sounds) overlap with the sound of the natural symphony and are intended as guides for the ears. Temporality is correlated to the duration of sound manifestations – time is established as a flow, being observed from within a process.
-![Stellatum_ Primavera album artwork](media/stellatum_primavera_art.jpg)
+![Stellatum_ Primavera album artwork](/media/stellatum_primavera_art.jpg)
 
 > **Figure 2**: Cover for the album _Projeto: Cerrado - Primavera & Verão_, 2020. Graphic art: Havane Melo, 2020.
 
@@ -38,7 +38,7 @@ In “Primavera” I tried to present the first rains that appear at the end of 
 
 The videos that make up the audiovisual performances of “Primavera”[^3] rely on the basic perceptual elements of the experience in Cerrado sites. Here, the entire visual block included in the poetic perspective is anchored to the situated experience and in the imagery developed during my hikes. Such perspective can be considered a derivative of influential sound artists in the ambient music scene of the 1990s and 2000, such as loscil and Biosphere. Both make use of sound and visual recordings derived from their experiences in natural landscape.
 
-![Video stills of "Primavera"](media/primavera_video_still.png)
+![Video stills of "Primavera"](/media/primavera_video_still.png)
 
 > **Figure 3**: Video excerpts from a performance of _Projeto: Cerrado – Primavera_, 2020.
 

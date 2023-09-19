@@ -1,6 +1,6 @@
 ﻿**[ליאור ארבל](https://www.liorarbel.com/)**
 
-![Aeolis](media/Aeolis_cover_image.jpg)
+![Aeolis](/media/Aeolis_cover_image.jpg)
 
 **[סרטון יוטיוב](https://www.youtube.com/watch?v=Fj9xhr2w3yU&t=3s)**
 

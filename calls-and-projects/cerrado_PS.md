@@ -8,7 +8,7 @@ O Brasil é o quinto maior país do mundo, possuindo uma extensão territorial d
 
 Enquanto muito foi dito acerca da Amazônia, pouco foi noticiado nos meios de comunicação internacionais sobre outros ecossistemas brasileiros que vêm sofrendo ataques similares. O Brasil é dotado de 6 ecorregiões \[ecoregions\] ou, de acordo com a definição do geógrafo brasileiro Aziz Ab'saber (1977), domínios morfoclimático \[morphoclimatic zone/domain\]. Essa denominação é mais adequada, pois levam em consideração não apenas características taxonômicas de espécies que compõe a fauna e a flora de uma região, como também características de relevo, clima, solo e vegetação para se definir as unidades paisagísticas do Brasil. Além do domínio equatorial amazônico, onde se localiza a floresta amazônica, comporiam o vasto mosaico paisagístico brasileiro o Cerrado, a Mata Atlântica, Caatinga, Florestas de Araucárias e as Pradarias.
 
-![Map of Brazil showing the Cerrado](media/cerrado_map.png)
+![Map of Brazil showing the Cerrado](/media/cerrado_map.png)
 
 > **Figura 1**: Fonte da imagem -
 https://edition.cnn.com/2019/09/22/americas/brazil-cerrado-soy-intl/index.html
@@ -29,7 +29,7 @@ Toda a criação das performances audiovisuais e das instalações multimídia f
 
 "Primavera"[^1] foi composta tendo por base a dinâmica da biofonia nos períodos de chuva do Cerrado brasileiro[^2], os drones de baixa e alta frequência (sons repetidos) desdobram-se ao som da sinfonia natural e pretendem-se como guias para os ouvidos. A temporalidade é correlata à duração das manifestações sonoras -- o tempo se institui como fluxo, sendo observado por dentro de um processo.
 
-![Stellatum_ Primavera album artwork](media/stellatum_primavera_art.jpg)
+![Stellatum_ Primavera album artwork](/media/stellatum_primavera_art.jpg)
 
 > **Figura 2**: capa para o formato digital do álbum _Projeto: Cerrado - Primavera & Verão_, 2020. Arte gráfica: Havane Melo, 2020.
 
@@ -37,7 +37,7 @@ Em "Primavera" busquei apresentar as primeiras chuvas que despontam ao fim da es
 
 Os vídeos que compõem as performances audiovisuais de "Primavera"[^3] não prescindem dos elementos perceptivos básicos da experiência nos sítios do Cerrado. Aqui*,* todo o bloco visual incluso na perspectiva poética ancora-se na experiência situada e nas capturas imagéticas realizadas concomitantemente às caminhadas. Tal perspectiva afigura-se como uma possibilidade derivada para com a aproximação de artistas sonoros influentes no cenário da música ambiente dos anos 1990 e 2000, tais como loscil e Biosphere. Ambos se utilizam de gravações sonoras e visuais derivadas de suas experiências com a paisagem.
 
-![Video stills of "Primavera"](media/primavera_video_still.png)
+![Video stills of "Primavera"](/media/primavera_video_still.png)
 
 > **Figura 3**: Imagem que compõe trechos do vídeo da performance _Projeto: Cerrado – Primavera_, 2020.
 

@@ -2,7 +2,7 @@
 ***https://www.liorarbel.com***  
 ***[lior.e.arbel@gmail.com](mailto:lior.e.arbel@gmail.com)***
 
-![Aeolis](media/Aeolis_cover_image.jpg)
+![Aeolis](/media/Aeolis_cover_image.jpg)
 
 **[[Video](https://www.youtube.com/watch?v=Fj9xhr2w3yU&t=3s)]**
 
