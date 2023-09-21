@@ -54,10 +54,10 @@ A unique recommendation to answer the questions above is the following: **Use op
 
 ### Open Source CAD
 
-**FreeCAD** [[1]] is a free and open-source 3D CAD software that allows users to create and edit parametric 3D models with a comprehensive set of tools and a user-friendly interface. - here, you can find a series of tutorials to get familiar with this software [[2]]
+[**FreeCAD**][1] is a free and open-source 3D CAD software that allows users to create and edit parametric 3D models with a comprehensive set of tools and a user-friendly interface. - here, you can find a series of tutorials to get familiar with this software [[2]].
 
-![alt text](/media/freecadsceenshot1.png "3D model in FreeCAD")
-![alt text](/media/3dprintingresult.jpg "3D printed shells from FreeCAD 3D model")
+![3D model in FreeCAD](/media/freecadsceenshot1.png)
+![3D printed shells from FreeCAD 3D model](/media/3dprintingresult.jpg)
 
 
 
@@ -67,22 +67,23 @@ A unique recommendation to answer the questions above is the following: **Use op
 games, and other media. - here, you can find a series of tutorials to get familiar with this software [[6]]
 
 **Inkscape** [[7]] is a free and open-source vector graphics editor software that allows users to create and edit scalable vector graphics (SVG) and other graphics formats for illustrations, logos, and other graphic design projects. - here, you can find a series of tutorials to get familiar with this software [[8]]
-![alt text](/media/inkscapescreenshot1.png "Texture Research conductied in Inkscape")
+
+![Texture Research conductied in Inkscape](/media/inkscapescreenshot1.png)
 
 
 **LibreCAD** [[9]] is a free and open-source 2D CAD software that allows users to create and edit technical drawings, schematics, and diagrams for architectural, mechanical, and engineering projects. - here, you can find a series of tutorials to get familiar with this software [[10]]
 
 **KiCAD** [[11]] is a free and open-source software suite used for electronic design automation (EDA) that allows users to design printed circuit boards (PCBs), schematics, and electrical diagrams for electronic projects. - here, you can find a series of tutorials to get familiar with this software [[12]]
 
-![alt text](/media/kicadscreenshot1.png "Circuit Schematice designed in KiCAD")
-![alt text](/media/kicadscreenshot2.png "PCB Design in KiCAD")
-![alt text](/media/kicadresult3.jpg "Circuit Produced from external Manufacturer")
-![alt text](/media/kicadresult.jpg "Circuit with components soldered on it")
+![Circuit Schematice designed in KiCAD](/media/kicadscreenshot1.png)
+![PCB Design in KiCAD](/media/kicadscreenshot2.png)
+![Circuit Produced from external Manufacturer](/media/kicadresult3.jpg)
+![Circuit with components soldered on it](/media/kicadresult.jpg)
 
 
 It is also worth mentioning that the software above can all interact with each other, and offer very interesting possibilities, for example, a FreeCAD addon named **KiCAD StepUp** [[13]] can be used to draw very easily the border of your cisrcuit so that it perfectly fits with the casing designed in **FreeCAD** [[14]]
 
-![alt text](/media/kicadresult2.jpg "PCB outline designed with KiCADStepUp Addon")
+![PCB outline designed with KiCADStepUp Addon](/media/kicadresult2.jpg)
 
 ### Documentation
 
@@ -91,7 +92,7 @@ On top of that, **Inkscape** can be a very powerful instrument to produce very a
 
 ## External Links and References
 
-[1]: https://www.freecad.org/
+[1]: https://www.freecad.org/ "FreeCAD.org"
 [2]: https://www.youtube.com/playlist?list=PLWuyJLVUNtc0UszswD0oD5q4VeWTrK7JC
 [3]: https://openscad.org/
 [4]: https://www.youtube.com/watch?v=dx06_gcdMck&list=PL3by7evD3F51u-17hoepe7IduGkfp2Fu6
@@ -106,13 +107,6 @@ On top of that, **Inkscape** can be a very powerful instrument to produce very a
 [13]: https://www.kicad.org/external-tools/stepup/ 
 [14]: https://www.youtube.com/watch?v=JFpKwWf0n68 
 
-
-
-
-
-
-
 ## Contributor
 
 * [Nicolò Nerendino (aka "Chi ha ucciso Il Conte?")](https://chihauccisoilconte.eu/)
-
