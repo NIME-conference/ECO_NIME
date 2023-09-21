@@ -89,26 +89,22 @@ It is also worth mentioning that the software above can all interact with each o
 It is advisable to share the source files of your project in a repository and, if you want to be really extreme, you can include there the version of the software you are using (since is opens source that's completely legal).
 On top of that, **Inkscape** can be a very powerful instrument to produce very accurate documentation. 
 
-
-
-
-
 ## External Links and References
 
-[[1]] https://www.freecad.org/
-[[2]] https://www.youtube.com/playlist?list=PLWuyJLVUNtc0UszswD0oD5q4VeWTrK7JC
-[[3]] https://openscad.org/
-[[4]] https://www.youtube.com/watch?v=dx06_gcdMck&list=PL3by7evD3F51u-17hoepe7IduGkfp2Fu6
-[[5]] https://www.blender.org/ 
-[[6]] https://www.youtube.com/watch?v=6FaLHFJ2kKI&list=PL3GeP3YLZn5ixsnIOIx9tB4v6s-rsw48X  
-[[7]] https://inkscape.org/
-[[8]] https://www.youtube.com/watch?v=XFFZXgBtNlg&list=PLynG8gQD-n8AB8eeoRuae-Pm0koebv9iC
-[[9]] https://librecad.org/
-[[10]] https://www.youtube.com/playlist?list=PLh1Mh_dB_MNHxafvJwpw86QvHT0KWsb5s
-[[11]] https://www.kicad.org/
-[[12]] https://www.youtube.com/watch?v=vaCVh2SAZY4&list=PL3bNyZYHcRSUhUXUt51W6nKvxx2ORvUQB 
-[[13]] https://www.kicad.org/external-tools/stepup/ 
-[[14]] https://www.youtube.com/watch?v=JFpKwWf0n68 
+[1]: https://www.freecad.org/
+[2]: https://www.youtube.com/playlist?list=PLWuyJLVUNtc0UszswD0oD5q4VeWTrK7JC
+[3]: https://openscad.org/
+[4]: https://www.youtube.com/watch?v=dx06_gcdMck&list=PL3by7evD3F51u-17hoepe7IduGkfp2Fu6
+[5]: https://www.blender.org/ 
+[6]: https://www.youtube.com/watch?v=6FaLHFJ2kKI&list=PL3GeP3YLZn5ixsnIOIx9tB4v6s-rsw48X  
+[7]: https://inkscape.org/
+[8]: https://www.youtube.com/watch?v=XFFZXgBtNlg&list=PLynG8gQD-n8AB8eeoRuae-Pm0koebv9iC
+[9]: https://librecad.org/
+[10]: https://www.youtube.com/playlist?list=PLh1Mh_dB_MNHxafvJwpw86QvHT0KWsb5s
+[11]: https://www.kicad.org/
+[12]: https://www.youtube.com/watch?v=vaCVh2SAZY4&list=PL3bNyZYHcRSUhUXUt51W6nKvxx2ORvUQB 
+[13]: https://www.kicad.org/external-tools/stepup/ 
+[14]: https://www.youtube.com/watch?v=JFpKwWf0n68 
 
 
 
